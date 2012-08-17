@@ -9,5 +9,4 @@
 - Last edited : 08/17/2012
 - Note : This script has just been translated into Persian. Rtl is not yet. 
 
-- You can download the latest persian language from	: please [click here]("http://github.com/iranwebdesign/translation/tree/master/CF%20Image%20Hosting%20Script%20v.1.5%20(persian%20translation)/languages/")
-- You can download the latest version from			: please [click here](http://codefuture.co.uk/projects/imagehost/)
+- You can download the latest version from	: please [click here](http://codefuture.co.uk/projects/imagehost/)
