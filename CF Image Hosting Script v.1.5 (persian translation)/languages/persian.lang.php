@@ -443,7 +443,7 @@
 	$lang["site_index_local_image_upload_title"]		= 'آپلود عکس از کامپیوتر شخصی';
 	$lang["site_index_Remote_image_copy"]				= 'آپلود از لینک';
 	$lang["site_index_Remote_image_copy_title"]			= 'آپلود تصویر از سایت های دیگر';
-	$lang["site_index_Remote_image"]					= 'لطفا لینک تصویری را که می خواهید به این سایت منتقل کنید را وارد نمایید.';
+	$lang["site_index_Remote_image"]					= 'لینک تصویری را که می خواهید به این سایت منتقل کنید را وارد نمایید.';
 	$lang["site_index_auto_deleted"]					= '<b>فایل های غیر فعال</b> : تصاویر به صورت اتوماتیک بعد از  %s روز حذف می شوند.';
 	$lang["site_index_max_bandwidth"]					= 'محدودیت پهنای باند';
 	$lang["site_index_max_bandwidth_per"]				= 'به ازای هر تصویر در ';
