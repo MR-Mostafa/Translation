@@ -819,12 +819,12 @@ function format_size($size="",$file="") {
 	if (strlen($size) <= 9 && strlen($size) >= 7){
 		$img_size = substr(number_format($size / 1048576,2), -2) == '00' 
 					? number_format($size / 1048576,0):number_format($size / 1048576,2);
-		$img_size .= " MB";
+		$img_size .= " مگابایت";
 	}elseif (strlen($size) >= 10){
 		$img_size = substr(number_format($size / 1073741824,2), -2) == '00' 
 					? number_format($size / 1073741824,0):number_format($size / 1073741824,2);
-		$img_size .= " GB";
-	}else $img_size = number_format($size / 1024,0)." kb";
+		$img_size .= " گیگابایت";
+	}else $img_size = number_format($size / 1024,0)." کیلوبایت";
 
 	return $img_size;
 }
