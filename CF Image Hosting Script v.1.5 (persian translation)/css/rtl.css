@@ -1,0 +1,331 @@
+/*=======================================================================================================
+ *	Description: this style is for making CF Image Hosting Script v1.5 (except admin panel) rtl.
+ *	RTL by: Mostafa Rahmati
+ *	my website: http://iranwebdesign.ir
+ *	my Email : info@iranwebdesign.ir 
+ *=====================================================================================================*/
+@font-face {
+	font-family: 'BKoodak';
+	src: url('../font/BKoodakBold.eot');
+	src: url('../font/BKoodakBold.eot?#iefix') format('eot'),
+		 url('../font/BKoodakBold.woff') format('woff'),
+		 url('../font/BKoodakBold.ttf') format('truetype');
+	font-weight: normal !important;
+	font-style: normal !important;
+}
+#wrap,#header,#content,#footer{
+	overflow: hidden !important;
+}
+*{
+	font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+	text-shadow:0 1px 2px white !important;
+	-webkit-text-shadow:0 1px 2px white !important;
+	-moz-text-shadow:0 1px 2px white !important;
+}
+#logo *{
+	font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+}
+body{
+	overflow-x:hidden !important;
+}
+html,body{
+	direction:rtl !important;
+}
+input[type="submit"],input[type="button"]{
+	cursor: pointer !important;
+}
+div#footer .clear{
+	width:0 !important;
+	height:0 !important;
+	overflow:hidden !important;
+	clear:both !important;
+}
+div#nav #main-nav li{
+	float:right !important;
+}
+div#footer .iranwebdesign{
+	width: 765px !important;
+	float:right !important;
+}
+div#footer .iranwebdesign p{
+	text-align: right !important;
+	display: block !important;
+	padding: 2px 5px 2px 0 !important;
+}
+div#footer #feed{
+	width:71px !important;
+	height:16px !important;
+	margin:0 auto 0 0 !important;
+}
+#footer{
+	margin: 10px 0 15px 0 !important;
+}
+#search input.text_input{
+	border-radius:0 5px 5px 0 !important;
+	-webkit-border-radius:0 5px 5px 0 !important;
+	-moz-border-radius:0 5px 5px 0 !important;
+}
+#home p.teaser{
+	font-size: 15px !important;
+	line-height:26px !important;
+	margin-top:5px !important;
+	margin-bottom: 10px !important;
+}
+#home p.teaser:first-child{
+	font-size: 18px !important;
+	line-height:31px !important;
+	margin-top: 12px !important; 
+}
+#home p.teaser b{
+	font-size: 18px !important;
+}
+#home input#uploadbutton{
+	margin:0 0 40px 321px !important;
+}
+#search input.button{
+	border-radius:5px 0 0 5px !important;
+	-webkit-border-radius:5px 0 0 5px !important;
+	-moz-border-radius:5px 0 0 5px !important;
+}
+#home .pref_title{
+	background-position: 116px 5px !important;
+	text-align: right !important;
+	width:100px !important;
+	padding: 2px 25px 4px 10px !important;
+}
+#home .open_pref{
+	background-position: 116px 5px !important;
+}
+#home .preferences{
+	width:358px !important;
+	border-radius: 0 0 5px 5px !important;
+	-webkit-border-radius: 0 0 5px 5px !important;
+	-moz-border-radius: 0 0 5px 5px !important;
+	text-align: right !important;
+}
+#home .upload_op{
+	font-size: 15px !important;
+}
+#home .input label,
+#home .upload_op a,
+#home span.span,
+#home p.teaser,
+#home p.teaser b,
+#home #IWD,
+#home #IWD p,
+#home #IWD a{
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+}
+#home .input label[for="alt"]{
+	margin-top: 12px !important;
+}
+#home .input #fileName{
+	text-align:left;
+}
+#home .input label[for="private"],
+#home .input label[for="shorturl"]{
+	font-size: 14px !important;
+}
+span.small{
+	line-height: 16px !important;
+	text-align: justify !important;
+}
+#home #IWD p,
+#home #IWD a{
+	font-size: 15px !important;
+	line-height: 21px !important;
+}
+#home #IWD a{
+	font-size: 17px !important;
+}
+/*=======================================================================================================
+/////////////////////////////////////// [style for gallery.php] /////////////////////////////////////////
+========================================================================================================*/
+#gallery ul.gallery {
+	height: 210px !important;
+}
+#gallery ul.gallery li{
+	float: right !important;
+}
+#gallery ul.gallery li h2 a{
+	text-align: center !important;
+}
+#gallery .pagination{
+	float: right !important;
+}
+/*=======================================================================================================
+///////////////////////////////////////// [style for faq.php] ///////////////////////////////////////////
+========================================================================================================*/
+#faq_page .contentBox{
+	text-align: right !important;
+}
+#faq_page .faq_box{
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+	text-shadow:0 1px 2px white !important;
+	-webkit-text-shadow:0 1px 2px white !important;
+	-moz-text-shadow:0 1px 2px white !important;
+}
+/*=======================================================================================================
+///////////////////////////////////////// [style for tos.php] ///////////////////////////////////////////
+========================================================================================================*/
+#tos_page #tos{
+	text-align: right !important;
+}
+#tos_page #tos ul{
+	padding: 15px 30px 15px 5px !important;
+}
+#tos_page #tos ul li ul{
+	margin: 0 !important;
+}
+/*=======================================================================================================
+/////////////////////////////////////// [style for contact.php] /////////////////////////////////////////
+========================================================================================================*/
+#contact_page #content .teaser, #contact h2{
+	text-align: right !important;
+}
+#contact_page p.teaser{
+	margin-bottom: 10px !important;
+}
+#contact_page table{
+	margin-top: 25px !important;
+}
+#contact_page #form tr{
+	text-align: right !important;
+}
+#contact_page #form tr td{
+	width:380px !important;
+}
+#contact_page #form tr td:first-child{
+	width:110px !important;
+}
+#contact_page #form tr#submit td{
+	width:480px !important;
+}
+#contact_page #form tr#submit input{
+	margin-right: 412px !important;
+}
+#contact_page input.long, textarea.long{
+	width:350px !important;
+}
+#contact #form{
+	width: auto !important;
+}
+/*=======================================================================================================
+////////////////////////////////////// [style for thumbnail.php] ////////////////////////////////////////
+========================================================================================================*/
+h2.boxtitle{
+	text-align: right !important;
+	font-size: 17px !important;
+}
+#thumb .code_box{
+	text-align: right !important;
+}
+div.full h3{
+	display: block !important;
+	text-align: right  !important;
+	font-size: 17px !important;
+	padding:0 10px 0 0 !important;
+	color: #a61700 !important;
+	margin: 25px 0 5px 0 !important;
+}
+div.full .code_box label{
+	float: right !important;
+	width:85px !important;
+	margin-right:50px !important;
+	background:url("../img/li.png") right 10px no-repeat !important;
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+	font-size: 15px !important;
+	padding: 0 13px 0 0 !important;
+}
+div.full .code_box label#toplabel{
+	width:110px !important;
+}
+.code_box input.text_input{
+	float: none !important;
+}
+div.full .code_box input.text_input{
+	width:650px !important;
+}
+#thumb .addthis{
+	width:420px !important;
+	overflow: visible !important;
+	text-align: right !important;
+}
+#thumb .boxpanel{
+	padding:0 0 10px !important;
+}
+.gallery h2{
+	text-align: center !important;
+}
+/* fix bug in script (scroll X) */
+#thumb span.at16nc{
+	text-indent: 5000px !important;
+}
+#thumb span.at_a11y{
+	position: inherit !important; 
+	width:0 !important; 
+	height: 0 !important; 
+	overflow: hidden !important; 
+	text-indent: 5000px !important; 
+}
+/*=======================================================================================================
+/////////////////////////////////////// [style for search.php] //////////////////////////////////////////
+========================================================================================================*/
+h4.search,
+.search_for,
+.search_sug{
+	text-align:right !important;
+}
+.search_sug{
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+	font-size: 16px !important;
+	text-shadow:0 1px 2px white !important;
+	-webkit-text-shadow:0 1px 2px white !important;
+	-moz-text-shadow:0 1px 2px white !important;
+}
+/*=======================================================================================================
+////////////////////////////////////// [style for notification] /////////////////////////////////////////
+========================================================================================================*/
+.notification,
+.error_message{
+	font-family: "BKoodak",Tahoma, Arial, Verdana, Helvetica, sans-serif !important;
+	text-align:right !important;
+	text-shadow:0 1px 1px white !important;
+	-webkit-text-shadow:0 1px 1px white !important;
+	-moz-text-shadow:0 1px 1px white !important;
+	display:block !important;
+	font-size: 17px !important;
+	line-height: 25px!important;
+	margin: 10px 0 4px !important;
+	padding: 6px 33px 6px 10px !important;
+}
+.notification .close{
+	right:auto !important;
+	left:5px !important;
+}
+.success{
+	color: #407A00 !important;
+	background-color: #E1F8BB !important;
+	background-position: 831px 9px !important;
+	border: 1px solid #498E00 !important;
+	box-shadow: 0 0 3px #356800 !important;
+	-webkit-box-shadow: 0 0 3px #356800 !important;
+	-moz-box-shadow: 0 0 3px #356800 !important;
+}
+.error,
+.error_message{
+	color: #C1000B !important;
+	background-color: #FFBABA !important;
+	background-position: 831px 9px !important;
+	border: 1px solid #D8000C !important;
+	box-shadow: 0 0 3px #B0000A !important;
+	-webkit-box-shadow: 0 0 3px #B0000A !important;
+	-moz-box-shadow: 0 0 3px #B0000A !important;
+}
+.error_message{
+	padding: 2px 6px !important;
+	font-size: 14px !important;
+}
