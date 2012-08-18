@@ -143,7 +143,7 @@
 
 				if(isset($delete_id)){
 					$thumbHtml .= '
-					<h3>Delete Image</h3>
+					<h3>حذف تصویر</h3>
 						<div class="code_box"><label for="deletecode">'.$lang["site_index_delete_url"].':</label> <input type="text" id="deletecode" value="'.$links[$countThumb]['delete_url'].'" onclick="javascript:this.focus();this.select();" readonly="true" class="text_input long" /></div>
 						<p class="teaser">'.$lang["site_index_delete_url_des"].'</p>';
 				}

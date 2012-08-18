@@ -148,9 +148,8 @@
 				}
 			}
 			if (extOk != true) {
-				alert("Please only upload files that end in types:  "
-				+ (extArray.join("  ")) + "\nPlease select a new "
-				+ "file to upload and submit again.");
+				alert("شما تنها مجاز به آپلود فایل هایی با پسوند زیر می باشد: "
+				+ " " + (extArray.join("  ")) + "\nلطفا فایل دیگری را انتخاب نمایید.");
 				return false;
 			}
 		}

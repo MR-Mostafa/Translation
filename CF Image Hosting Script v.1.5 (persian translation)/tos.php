@@ -51,9 +51,9 @@
 			<div id="tos">
 				<h2><?php echo $lang["site_tos_title"];?></h2>
 				<ul>
-					<li><?php echo $settings['SET_TITLE'];?> <?php echo $lang["site_tos_line1"];?></li>
+					<li><?php echo $lang["site_tos_line1"];?></li>
 					<li><?php echo $lang["site_tos_line2"];?></li>
-					<li><?php echo $settings['SET_TITLE'];?> <?php echo $lang["site_tos_line3"];?>:
+					<li><?php echo $lang["site_tos_line3"];?>:
 						<ul>
 							<li><?php echo $lang["site_tos_line4"];?></li>
 							<li><?php echo $lang["site_tos_line5"];?></li>
@@ -63,13 +63,14 @@
 						</ul>
 					</li>
 					<li><?php echo $lang["site_tos_line9"];?></li>
-					<li><?php echo $settings['SET_TITLE'];?> <?php echo $lang["site_tos_line10"];?></li>
-					<li><?php echo $settings['SET_TITLE'];?> <?php echo $lang["site_tos_line11"];?></li>
+					<li><?php echo $lang["site_tos_line10"];?></li>
+					<li><?php echo $lang["site_tos_line11"];?></li>
 				</ul>
 				<br/><br/>
 				<h2><?php echo $lang["site_privacy_policy_title"];?></h2>
 				<ul>
 					<li><?php echo $lang["site_privacy_policy_line1"];?></li>
+					<li><?php echo $lang["site_privacy_policy_line2"];?></li>
 				</ul>
 			</div>
 		</div>

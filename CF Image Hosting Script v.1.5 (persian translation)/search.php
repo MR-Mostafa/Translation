@@ -132,7 +132,7 @@
 			echo '<h4 class="search">'.sprintf($lang["site_search_results"],'<span class="search_for">'.$DBCOUNT.'</span>').' <span class="search_for">'.$string.'</span></h4>';
 			echo $imgGallery;
 		}else{
-			echo '<h4 class="search">'.$lang["site_search_no_results"].' <span class="search_for">'.$string.'</span></h4>';
+			echo '<h4 class="search">'.$lang["site_search_no_results"].' <span class="search_for">'.$string.'</span> '.$lang["site_search_no_results2"].'</h4>';
 			echo '<p class="search_sug">'.$lang["site_search_suggestions"].'</p>';
 		}
 
