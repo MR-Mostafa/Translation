@@ -365,7 +365,7 @@
 	$lang["pagination_page_first_tip"]			= "صفحه نخست";
 	$lang["pagination_page_last_tip"]			= "صفحه آخر";
 	$lang["pagination_page_tip"]				= 'صفحه %1$d'; // %1$d - page number
-	$lang["pagination_page_of"]					= 'صفحه %1$s of %2$s';// %1$s - page on / %2$s number of pages
+	$lang["pagination_page_of"]					= 'صفحه %1$s از %2$s';// %1$s - page on / %2$s number of pages
 	$lang["pagination_page_first"]				= 'اول';
 	$lang["pagination_page_last"]				= 'آخر';
 
@@ -434,16 +434,16 @@
 	$lang["site_index_Image_Formats"]					= 'پسوند های قابل پشتیبانی';
 	$lang["site_index_maximum_filesize"]				= 'حداکثر حجم مجاز';
 	$lang["site_index_uploading_image"]					= 'در حال آپلود تصویر ...';
-	$lang["site_index_upload_image"]					= 'آپلود تصویر جدید';
+	$lang["site_index_upload_image"]					= 'آپلود تصویر از کامپیوتر شخصی';
 	$lang["site_index_upload_browse_button"]			= 'انتخاب';
 	$lang["site_index_upload_description"]				= 'توضیحات: (دلخواه)';
 	$lang["site_index_upload_button"]					= 'آپلود';
 	$lang["site_index_upload_disable"]					= 'آپلود تصویر غیرفعال شده است.';
-	$lang["site_index_local_image_upload"]				= 'کامپیوتر شخصی';
-	$lang["site_index_local_image_upload_title"]		= 'آپلود عکس از کامپیوتر شخصی';
+	$lang["site_index_local_image_upload"]				= 'از کامپیوتر شخصی';
+	$lang["site_index_local_image_upload_title"]		= 'آپلود تصویر از کامپیوتر شخصی';
 	$lang["site_index_Remote_image_copy"]				= 'آپلود از لینک';
 	$lang["site_index_Remote_image_copy_title"]			= 'آپلود تصویر از سایت های دیگر';
-	$lang["site_index_Remote_image"]					= 'لینک تصویری را که می خواهید به این سایت منتقل کنید را وارد نمایید.';
+	$lang["site_index_Remote_image"]					= 'آپلود تصویر از طریق لینک';
 	$lang["site_index_auto_deleted"]					= '<b>فایل های غیر فعال</b> : تصاویر به صورت اتوماتیک بعد از  %s روز حذف می شوند.';
 	$lang["site_index_max_bandwidth"]					= 'محدودیت پهنای باند';
 	$lang["site_index_max_bandwidth_per"]				= 'به ازای هر تصویر در ';
