@@ -140,7 +140,7 @@
 					<?php echo $homeVar['max_upload'];?>
 					<input name="submit" type="submit" id="uploadbutton" value="<?php echo $lang["site_index_upload_button"];?>" class="uploadbutton button" onclick="return fileExt(extArray)" />
 					<div class="clear_both"></div>
-					<?php echo $homeVar['hide_tos'];?>
+					<span id="IWD"><?php echo $homeVar['hide_tos'];?></span>
 				</form>
 			</div>
 			<?php /*if($settings['SET_GOOGLE_ADS'] !=''){?>

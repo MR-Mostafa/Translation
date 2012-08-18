@@ -40,7 +40,7 @@
 	flushNow(1);
 ?>
 <!doctype html>
-<html lang="en">
+<html dir="rtl" lang="fa-IR">
 <head>
 	<meta charset="<?php echo $lang["site_charset"];?>">
 	<meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
@@ -51,6 +51,7 @@
 	<link href="favicon.ico" rel="icon" type="image/x-icon" />
 	<link rel="alternate" type="application/rss+xml" title="<?php echo $settings['SET_TITLE'];?> Feed" href="<?PHP echo $settings['SET_SITEURL'];?>/feed.php" />
 	<link rel="stylesheet" href="<?PHP echo $settings['SET_SITEURL'];?>/themes/<?php echo $settings['SET_THEME'];?>/<?php echo $settings['SET_THEME'];?>.css?v=<?php echo $settings['SET_VERSION'];?>" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="<?PHP echo $settings['SET_SITEURL'];?>/css/rtl.css">
 	<?PHP echo (isset($header_hook)?$header_hook:'');?>
 </head>
 <body id="<?PHP echo $menu;?>">
@@ -73,14 +74,6 @@
 			<h1><a href="<?PHP echo $settings['SET_SITEURL'];?>/index.php" title="<?php echo $settings['SET_TITLE'];?> <?php echo $lang["site_menu_home"];?>"><?php echo $settings['SET_TITLE'];?></a></h1>
 			<h2><?php echo $settings['SET_SLOGAN'];?></h2>
 		</div>
-
-<?php	if ($listLanguages= listLanguages()){?>
-		<div class="languages"<?php if(!isset($listLanguagesOver)){ ?> onMouseOver="document.getElementById('language').style.display='block'" onMouseOut="document.getElementById('language').style.display='none'"<?php } ?>>
-			<div class="lan_on"><span><?php echo $lang["site_language"];?></span><img src="<?PHP echo $settings['SET_SITEURL'];?>/languages/<?php echo $settings['SET_LANGUAGE'];?>.png" width="23" height="15" alt="<?php echo $settings['SET_LANGUAGE'];?>" title="<?php echo $settings['SET_LANGUAGE'];?>" /></div>
-			<div id="language" class="language" ><?php echo listLanguages();?></div>
-			<div class="clear_both"></div>
-		</div>
-<?php } ?>
 
 	<?php if($settings['SET_HIDE_SEARCH']){?>
 		<div id="search">

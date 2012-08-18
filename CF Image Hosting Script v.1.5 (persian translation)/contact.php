@@ -146,30 +146,37 @@
 <?php }else{ // show contact form ?>
 				<p class="teaser"><?php echo $lang["site_contact_des"];?></p>
 				<div id="form">
-					<form method="post" action="contact.php">
-						<?php echo is_errors('name');?>
-						<div class="code_box">
-							<label for="name"><?php echo $lang["site_contact_form_name"];?></label>
-							<input name="name" type="text" id="name" class="text_input" size="24" value="<?php echo err_ReSet('name');?>" />
-						</div>
-						<?php echo is_errors('email');?>
-						<div class="code_box">
-							<label for="email"><?php echo $lang["site_contact_form_email"];?></label>
-							<input name="email" type="text" id="email" class="text_input" size="24" value="<?php echo err_ReSet('email');?>" /><br/>
-						</div>
-						<?php echo is_errors('comment');?>
-						<div class="code_box contact">
-							<label for="comment"><?php echo $lang["site_contact_form_comment"];?></label>
-							<textarea name="comment" id="comment" rows="8" cols="5" class="text_input long"><?php echo err_ReSet('comment');?></textarea>
-						</div>
-						<?php echo is_errors('captcha');?>
-						<div class="code_box">
-							<label for="captcha"><?php echo $lang["site_contact_form_captcha"];?></label>
-							<input name="captcha" type="text" id="captcha" size="24" class="text_input" />
-						</div>
-						<div class="code_box"><label><?php echo $lang["site_contact_form_captcha_img"];?></label><a href="#Reload Captcha" onclick="document.getElementById('captchaImg').src = 'img/captcha.img.php?img<?php echo $CAPTCHA_BG;?>&amp' + Math.random(); return false" class="creload"><img src="img/captcha.img.php?img<?php echo $CAPTCHA_BG;?>&amp<?php echo time();?>" alt="captcha" title="<?php echo $lang["site_contact_form_captcha_image_title"];?>" class="captcha" id="captchaImg" /></a></div>
-						<div class="code_box"><label></label><input type="submit" class="button" value="<?php echo $lang["site_contact_form_send"];?>" /></div>
-					</form>
+					<table align="center">
+						<form method="post" action="contact.php">
+							<?php echo is_errors('name');?>
+							<tr>
+								<td><?php echo $lang["site_contact_form_name"];?></td>
+								<td><input name="name" type="text" id="name" class="text_input" size="24" value="<?php echo err_ReSet('name');?>" /></td>
+							</tr>
+							<?php echo is_errors('email');?>
+							<tr>
+								<td><?php echo $lang["site_contact_form_email"];?></td>
+								<td><input name="email" type="text" id="email" class="text_input" size="24" value="<?php echo err_ReSet('email');?>" /></td>
+							</tr>
+							<?php echo is_errors('comment');?>
+							<tr>
+								<td><?php echo $lang["site_contact_form_comment"];?></td>
+								<td><textarea name="comment" id="comment" rows="8" cols="5" class="text_input long"><?php echo err_ReSet('comment');?></textarea></td>
+							</tr>
+							<?php echo is_errors('captcha');?>
+							<tr>
+								<td><?php echo $lang["site_contact_form_captcha"];?></td>
+								<td><input name="captcha" type="text" id="captcha" size="24" class="text_input" /></td>
+							</tr>
+							<tr>
+								<td><?php echo $lang["site_contact_form_captcha_img"];?></td>
+								<td><a href="#Reload Captcha" onclick="document.getElementById('captchaImg').src = 'img/captcha.img.php?img<?php echo $CAPTCHA_BG;?>&amp' + Math.random(); return false" class="creload"><img src="img/captcha.img.php?img<?php echo $CAPTCHA_BG;?>&amp<?php echo time();?>" alt="captcha" title="<?php echo $lang["site_contact_form_captcha_image_title"];?>" class="captcha" id="captchaImg" /></a></td>
+							</tr>
+							<tr id="submit">
+								<td colspan="2"><input type="submit" class="button" value="<?php echo $lang["site_contact_form_send"];?>" /></td>
+							</tr>
+						</form>
+					</table>
 				</div>
 <?php } // end show contact form/thanks  ?>
 			</div>

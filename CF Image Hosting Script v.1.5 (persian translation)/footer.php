@@ -47,12 +47,18 @@
 <?php } ?>
 </div>
 	<div id="footer">
-		<p><?php echo $settings['SET_COPYRIGHT'];?></p>
+		<div class="iranwebdesign">
+			<p><?php echo $settings['SET_COPYRIGHT'];?></p>
+			<div class="sp"></div>
+			<p>
+			با افتخار قدرت گرفته از <a href="http://codefuture.co.uk/projects/imagehost/" title="Free PHP Image Hosting Script">CF Image Hosting script</a> | طراحی شده توسط <a href="<?php echo $theme['url'];?>" title="<?php echo $theme['linktitle'];?>"><?php echo $theme['designby'];?></a> | ترجمه شده توسط <a href="http://iranwebdesign.ir/" title="ایران وب دیزاین">iranwebdesign.ir</a>
+			</p>
+		</div>
 		<?php if($settings['SET_HIDE_FEED']){?>
-			<div id="feed"><a href="<?php echo $settings['SET_SITEURL'];?>/feed.php" title="<?php echo $lang["footer_feed_title"];?>"><span><?php echo $lang["footer_feed_title"];?></span></a></div>
+			<div id="feed"><a href="<?php echo $settings['SET_SITEURL'];?>/feed.php" title="<?php echo $lang["footer_feed_title"];?>"><span><?php echo $lang["footer_feed_title"];?></span></a>
+			</div>
 		<?php } ?>
-		<div class="sp"></div>
-		<p>Powered By <a href="http://codefuture.co.uk/projects/imagehost/" title="Free PHP Image Hosting Script">CF Image Hosting script</a> | Design By <a href="<?php echo $theme['url'];?>" title="<?php echo $theme['linktitle'];?>"><?php echo $theme['designby'];?></a></p>
+		
 	</div>
 </div>
 
