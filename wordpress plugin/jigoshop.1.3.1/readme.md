@@ -10,6 +10,8 @@ You can download the latest version from : please [click here](http://wordpress.
 - translation by : Mostafa Rahmati
 - Author website : http://iranwebdesign.ir
 
+Note: Translation is not yet complete.
+
 For any **question** goto [issues](https://github.com/iranwebdesign/translation/issues), add lable and submit.
 
 Contributing
