@@ -10,7 +10,7 @@ You can download the latest version from : please [click here](http://wordpress.
 - translation by : Mostafa Rahmati
 - Author website : http://iranwebdesign.ir
 
-![DocumentUp](http://mihanlicense.com/upload/1all/under_construction2.jpg)
+![DocumentUp](http://mihanlicense.com/upload/1all/under_construction.jpg)
 Note: Translation is not complete yet.
 
 For any **question** goto [issues](https://github.com/iranwebdesign/translation/issues), add lable and submit.
