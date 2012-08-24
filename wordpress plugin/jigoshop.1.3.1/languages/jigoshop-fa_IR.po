@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jigoshop-fa_IR\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-23 21:13+0330\n"
-"PO-Revision-Date: 2012-08-24 03:46+0330\n"
+"PO-Revision-Date: 2012-08-25 00:40+0330\n"
 "Last-Translator: Mostafa Rahmati <info@iranwebdesign.ir>\n"
 "Language-Team: IranWebDesign.ir <info@iranwebdesign.ir>\n"
 "Language: Farsi\n"
@@ -746,49 +746,49 @@ msgstr "New Order status Name"
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:656
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:661
 msgid "Coupons"
-msgstr "تخفیف ها"
+msgstr "کوپن ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:267
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/cart.php:171
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/templates/checkout/review_order.php:122
 msgid "Coupon"
-msgstr "تخفیف"
+msgstr "کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:268
 msgid "Add Coupon"
-msgstr "افزودن تخفیف"
+msgstr "افزودن کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:269
 msgid "Add New Coupon"
-msgstr "افزودن تخفیف جدید"
+msgstr "افزودن کوپن جدید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:271
 msgid "Edit Coupon"
-msgstr "ویرایش تخفیف"
+msgstr "ویرایش کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:272
 msgid "New Coupon"
-msgstr "تخفیف جدید"
+msgstr "کوپن جدید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:273
 msgid "View Coupons"
-msgstr "نمایش تخفیف ها"
+msgstr "نمایش کوپن ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:274
 msgid "View Coupon"
-msgstr "نمایش تخفیف"
+msgstr "نمایش کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:275
 msgid "Search Coupons"
-msgstr "جستجوی تخفیف ها"
+msgstr "جستجوی کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:276
 msgid "No Coupons found"
-msgstr "تخفیفی یافت نشد."
+msgstr "کوپنی یافت نشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:277
 msgid "No Coupons found in trash"
-msgstr "تخفیفی در زباله دان یافت نشد."
+msgstr "کوپنی در زباله دان یافت نشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_taxonomy.php:278
 msgid "Parent Coupon"
@@ -798,7 +798,7 @@ msgstr "Parent Coupon"
 msgid ""
 "This is where you can add new coupons that customers can use in your store."
 msgstr ""
-"این بخشی است که شما می توانید تخفیف جدیدی اضافه کنید که مشتری بتواند در "
+"این بخشی است که شما می توانید کوپن جدیدی اضافه کنید که مشتری بتواند در "
 "فروشگاه شما استفاده کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/jigoshop_template_functions.php:73
@@ -1058,7 +1058,7 @@ msgstr "Slug"
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:545
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/flat_rate.php:82
 msgid "Type"
-msgstr "نوع"
+msgstr "Type"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-attributes.php:192
 msgid "Terms"
@@ -1131,7 +1131,7 @@ msgstr "سفارشات ارسال شده"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-dashboard.php:167
 msgid "You are using"
-msgstr "شما با استفاده از"
+msgstr "شما از این نسخه استفاده می کنید:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-dashboard.php:203
 msgid "l jS \\of F Y h:i:s A"
@@ -1647,7 +1647,7 @@ msgstr "مجموع:"
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/order_tracking.php:78
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/templates/checkout/pay_for_order.php:44
 msgid "Shipping"
-msgstr "حمل و نقل"
+msgstr "Shipping"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-post-types.php:423
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-post-types.php:449
@@ -1845,7 +1845,7 @@ msgstr "اخطار - این گزینه ممکن است بدون جاوا اسک�
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:223
 #, php-format
 msgid "Save %s Changes"
-msgstr "ذخیره %s تغییرات"
+msgstr "ذخیره  تغییرات %s"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:419
 #, php-format
@@ -1863,6 +1863,9 @@ msgid ""
 "decimal number (may have leading negative sign, with optional decimal point, "
 "numbers 0-9).  It was not saved and the original is still in use."
 msgstr ""
+"You entered \"%s\" as the value for \"%s\" in \"%s\" and it was not a valid "
+"decimal number (may have leading negative sign, with optional decimal point, "
+"numbers 0-9).  It was not saved and the original is still in use."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:451
 #, php-format
@@ -1871,6 +1874,9 @@ msgid ""
 "integer number (may have leading negative sign, numbers 0-9).  It was not "
 "saved and the original is still in use."
 msgstr ""
+"You entered \"%s\" as the value for \"%s\" in \"%s\" and it was not a valid "
+"integer number (may have leading negative sign, numbers 0-9).  It was not "
+"saved and the original is still in use."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:467
 #, php-format
@@ -1879,24 +1885,27 @@ msgid ""
 "natural number (numbers 0-9).  It was not saved and the original is still in "
 "use."
 msgstr ""
+"You entered \"%s\" as the value for \"%s\" in \"%s\" and it was not a valid "
+"natural number (numbers 0-9).  It was not saved and the original is still in "
+"use."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:512
 #, php-format
 msgid "\"%s\" settings were updated successfully."
-msgstr ""
+msgstr "\"%s\" تنظیمات با موفیت به روز رسانی شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1139
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1150
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:210
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:524
 msgid "Remove"
-msgstr ""
+msgstr "حذف کردن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1140
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1151
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:211
 msgid "Tax Classes"
-msgstr ""
+msgstr "طبقه های مالیاتی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1141
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1152
@@ -1906,40 +1915,40 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1353
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1416
 msgid "Online Label"
-msgstr ""
+msgstr "برچسب آنلاین"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1142
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1153
 msgid "Country/State"
-msgstr ""
+msgstr "کشور/شهر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1143
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1154
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1202
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1261
 msgid "Rate (%)"
-msgstr ""
+msgstr "امتیاز (%)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1144
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1155
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1384
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1420
 msgid "Apply to shipping"
-msgstr ""
+msgstr "درخواست حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1145
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1156
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1391
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1421
 msgid "Compound"
-msgstr ""
+msgstr "ترکیب"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1174
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1255
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1335
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1410
 msgid "Standard Rate"
-msgstr ""
+msgstr "نرخ استاندارد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1201
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:430
@@ -1947,60 +1956,62 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1033
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/flat_rate.php:103
 msgid "None"
-msgstr ""
+msgstr "هیچ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1201
 msgid "US States"
-msgstr ""
+msgstr "US States"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1201
 msgid "EU States"
-msgstr ""
+msgstr "EU States"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1223
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1398
 msgid "+ Add Tax Rule"
-msgstr ""
+msgstr "+ افزون قانون مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1236
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/languages/countries.php:248
 msgid "United States"
-msgstr ""
+msgstr "United States"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1242
 msgid "countries/states selected"
-msgstr ""
+msgstr "کشور/شهر انتخاب شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-api.php:1270
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1426
 msgid "Delete this rule?"
-msgstr ""
+msgstr "حذف این قانون؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:41
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:63
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:760
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:43
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:762
 msgid "General Options"
-msgstr ""
+msgstr "تنظیمات عمومی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:46
 msgid "Send Jigoshop emails from"
-msgstr ""
+msgstr "Send Jigoshop emails from"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:48
 msgid ""
 "The email used to send all Jigoshop related emails, such as order "
 "confirmations and notices."
 msgstr ""
+"از این ایمیل در Jigoshop به عنوان ارسال همه تاییده ها و اطلاعیه ها استفاده "
+"می کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:56
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:529
 msgid "Base Country/Region"
-msgstr ""
+msgstr "کشور/منطقه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:58
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:531
@@ -2008,21 +2019,25 @@ msgid ""
 "This is the base country for your business. Tax rates will be based on this "
 "country."
 msgstr ""
+"این کشور پایه برای کسب و کار شماست. نرخ های مالیاتی بر اساس این کشور محاسبه "
+"خواهد شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:66
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:583
 msgid "Allowed Countries"
-msgstr ""
+msgstr "کشورهای مجاز"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:68
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:585
 msgid "These are countries that you are willing to ship to."
 msgstr ""
+"اینها کشورهایی هستند که شما مایل به حمل و نقل از طریق راه های دریایی (کشتی) "
+"می باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:74
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:590
 msgid "All Countries"
-msgstr ""
+msgstr "همه کشورها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:75
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:80
@@ -2035,12 +2050,12 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/local_pickup.php:93
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/local_pickup.php:98
 msgid "Specific Countries"
-msgstr ""
+msgstr "کشورهای خاص"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:90
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:774
 msgid "After adding product to cart"
-msgstr ""
+msgstr "بعد از اضافه کردن محصول به سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:92
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:776
@@ -2048,30 +2063,32 @@ msgid ""
 "Define what should happen when a user clicks on &#34;Add to Cart&#34; on any "
 "product or page."
 msgstr ""
+"تعریف نوع عملیات اجرایی پس از کلیک کردن مشتری بر رویه &#34;افزودن به سبد "
+"خرید&#34; در همه محصولات یا صفحات."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:98
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:782
 msgid "Stay on the same page"
-msgstr ""
+msgstr "منتظر ماندن در همان صفحه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:99
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:783
 msgid "Redirect to Checkout"
-msgstr ""
+msgstr "هدایت شدن به بخش پرداخت وجه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:100
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:784
 msgid "Redirect to Cart"
-msgstr ""
+msgstr "هدایت شدن به سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:105
 msgid "Downloads"
-msgstr ""
+msgstr "دانلودها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:106
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:802
 msgid "Enforce login for downloads"
-msgstr ""
+msgstr "الزام ورود با نام کاربری برای دانلود فایل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:107
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:804
@@ -2079,38 +2096,40 @@ msgid ""
 "If a guest purchases a download, the guest can still download a link without "
 "logging in. We recommend disabling guest purchases if you enable this option."
 msgstr ""
+"کاربر مهمان بدون وارد شدن می تواند دانلود کند، با غیرفعال کردن این گزینه "
+"کاربر مهمان اجازه دانلود فایل را ندارد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:116
 msgid "Styles and scripts"
-msgstr ""
+msgstr "Styles and scripts"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:117
 msgid "Demo store banner"
-msgstr ""
+msgstr "پیش نمایش بنر فروشگاه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:118
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:607
 msgid ""
 "Enable this option to show a banner at the top of every page stating this "
 "shop is currently in testing mode."
-msgstr ""
+msgstr "با فعال"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:125
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:815
 msgid "Disable Jigoshop frontend.css"
-msgstr ""
+msgstr "غیرفعال کردن Jigoshop frontend.css"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:126
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:817
 msgid ""
 "Useful if you want to disable Jigoshop styles and theme it yourself via your "
 "theme."
-msgstr ""
+msgstr "برای غیرفعال کردن استایل و قالب های Jigoshop این گزینه را فعال کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:133
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:841
 msgid "Disable bundled Fancybox"
-msgstr ""
+msgstr "Disable bundled Fancybox"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:134
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:843
@@ -2119,16 +2138,19 @@ msgid ""
 "But be careful, Jigoshop will still try to open product images using "
 "Fancybox."
 msgstr ""
+"Useful if or one of your plugin already loads the Fancybox script and css. "
+"But be careful, Jigoshop will still try to open product images using "
+"Fancybox."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:143
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:853
 msgid "Checkout page"
-msgstr ""
+msgstr "صفحه پرداخت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:144
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:856
 msgid "Allow guest purchases"
-msgstr ""
+msgstr "اجازه خرید برای مهمان"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:145
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:858
@@ -2136,21 +2158,23 @@ msgid ""
 "Setting this to Yes will allow users to checkout without registering or "
 "signing up. Otherwise, users must be signed in or must sign up to checkout."
 msgstr ""
+"فعال کردن این گزینه باعث می شود تا کاربران بدون عضو شدن یا وارد شدن خرید "
+"کنند. در غیر این صورت، کاربران می بایست عضو شده و یا برای پرداخت وارد شوند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:152
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:869
 msgid "Show login form"
-msgstr ""
+msgstr "نمایش فرم ورود"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:159
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:881
 msgid "Allow registration"
-msgstr ""
+msgstr "اجازه عضویت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:166
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:893
 msgid "Force SSL on checkout"
-msgstr ""
+msgstr "اجبار استفاده از پروتکل SSL در پرداخت وجه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:167
 msgid ""
@@ -2158,40 +2182,46 @@ msgid ""
 "An SSL certificate is <strong>required</strong> if you choose yes. Contact "
 "your hosting provider for more information on SSL Certs."
 msgstr ""
+"فعال کردن این گزینه پیشنهاد می شود. با فعال کردن این گزینه صفحه پرداخت شما "
+"با آدرس https://گواهی نامه SSL <strong>الزامی</strong> می باشد. برای اطلاعات "
+"بیشتر در مورد گواهی SSL با میزبانی هاست خود در تماس باشید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:174
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:618
 msgid "Beta testing"
-msgstr ""
+msgstr "تست آزمایشی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:175
 msgid "Use beta versions"
-msgstr ""
+msgstr "از نسخه آزمایشی استفاده کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:176
 msgid ""
 "Only beta plugin updates will be shown for Jigoshop. Beta updates will "
 "display normally in the Wordpress plugin manager."
 msgstr ""
+"تنها پلاگین های آزمایشی به روز رسانی شده برای Jigoshop نمایش داده خواهد شد. "
+"به روز رسانی های نسخه آزمایشی به طور معمول در بخش پلاگین وردپرس نمایش داده "
+"می شود."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:183
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:632
 msgid "Check for update now"
-msgstr ""
+msgstr "بررسی به روز رسانی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:184
 msgid "Manually check if a beta update is available."
-msgstr ""
+msgstr "بررسی دستی برای وجود داشتن به روز رسانی های نسخه آزمایشی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:190
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:640
 msgid "Invoicing"
-msgstr ""
+msgstr "صورت حساب"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:193
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:643
 msgid "Company Name"
-msgstr ""
+msgstr "نام شرکت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:195
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:645
@@ -2199,11 +2229,13 @@ msgid ""
 "Setting your company name will enable us to print it out on your invoice "
 "emails. Leave blank to disable."
 msgstr ""
+"از نام شرکت وارد شده در ایمیل های ارسالی جهت صورت حساب استفاده می شود. برای "
+"غیرفعال کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:203
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:652
 msgid "Tax Registration Number"
-msgstr ""
+msgstr "شماره ثبت مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:205
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:654
@@ -2211,11 +2243,13 @@ msgid ""
 "Setting your tax number will enable us to print it out on your invoice "
 "emails. Leave blank to disable."
 msgstr ""
+"از شماره ثبت مالیات وارد شده در ایمیل های ارسالی جهت صورت حساب استفاده می "
+"شود. برای غیرفعال کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:213
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:661
 msgid "Address Line1"
-msgstr ""
+msgstr "آدرس 1"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:215
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:663
@@ -2223,11 +2257,13 @@ msgid ""
 "Setting your address will enable us to print it out on your invoice emails. "
 "Leave blank to disable."
 msgstr ""
+"از آدرس وارد شده در ایمیل های ارسالی جهت صورت حساب استفاده می شود. برای "
+"غیرفعال کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:223
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:670
 msgid "Address Line2"
-msgstr ""
+msgstr "آدرس 2"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:225
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:672
@@ -2236,11 +2272,14 @@ msgid ""
 "a value in it. Setting your address will enable us to print it out on your "
 "invoice emails. Leave blank to disable."
 msgstr ""
+"اگر آدرس 1 وارد نشده باشد، آدرس 2 در صورت تکمیل شدن، نمایش داده خواهد شد. از "
+"آدرس وارد شده در ایمیل های ارسالی جهت صورت حساب استفاده می شود. برای غیرفعال "
+"کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:233
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:679
 msgid "Company Phone"
-msgstr ""
+msgstr "شماره تماس شرکت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:235
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:681
@@ -2248,11 +2287,13 @@ msgid ""
 "Setting your company phone number will enable us to print it out on your "
 "invoice emails. Leave blank to disable."
 msgstr ""
+"از شماره تماس وارد شده شرکت در ایمیل های ارسالی جهت صورت حساب استفاده می "
+"شود. برای غیرفعال کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:243
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:689
 msgid "Company Email"
-msgstr ""
+msgstr "ایمیل شرکت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:245
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:691
@@ -2260,16 +2301,18 @@ msgid ""
 "Setting your company email will enable us to print it out on your invoice "
 "emails. Leave blank to disable."
 msgstr ""
+"از ایمیل وارد شده شرکت در ایمیل های ارسالی جهت صورت حساب استفاده می شود. "
+"برای غیرفعال کردن، این فلید را خالی بگذارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:252
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:905
 msgid "Integration"
-msgstr ""
+msgstr "ادغام"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:255
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:908
 msgid "ShareThis Publisher ID"
-msgstr ""
+msgstr "به اشتراک گذاری ID ناشر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:256
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:909
@@ -2277,6 +2320,8 @@ msgid ""
 "Enter your <a href='http://sharethis.com/account/'>ShareThis publisher ID</"
 "a> to show ShareThis on product pages."
 msgstr ""
+"برای اشتراک گذاری و نمایش آن در صفحه محصولات <a href='http://sharethis.com/"
+"account/'>به اشتراک گذاری ID ناشر</a> وارد کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:257
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:910
@@ -2284,11 +2329,13 @@ msgid ""
 "ShareThis is a small social sharing widget for posting links on popular "
 "sites such as Twitter and Facebook."
 msgstr ""
+"ShareThis یک ابزارک ساده جهت به اشتراک گذاری لینک پست ها در سایت هایی نظیر "
+"فیس بوک و توییتر می باشد ."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:265
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:917
 msgid "Google Analytics ID"
-msgstr ""
+msgstr "آیدی آنالیزر گوگل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:266
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:918
@@ -2296,15 +2343,17 @@ msgid ""
 "Log into your Google Analytics account to find your ID. e.g. <code>UA-"
 "XXXXXXX-X</code>"
 msgstr ""
+"برای پیدا کردن آیدی Google Analytics  وارد اکانت خود شوید. به عنوان مثال "
+"<code>UA-XXXXXXX-X</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:273
 msgid "Enable Google eCommerce"
-msgstr ""
+msgstr "فعال کردن Google eCommerce"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:274
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:926
 msgid "Add Google Analytics eCommerce tracking code upon successful orders"
-msgstr ""
+msgstr "افزودن کد Google Analytics eCommerce برای سفارشات موفقیت آمیز"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:275
 msgid ""
@@ -2312,24 +2361,27 @@ msgid ""
 "hl=en&answer=1009612\" target=\"_TOP\">Learn how to enable</a> eCommerce "
 "tracking for your Google Analytics account."
 msgstr ""
+"<a href=\"//support.google.com/analytics/bin/answer.py?"
+"hl=en&answer=1009612\" target=\"_TOP\">آموزش چگونگی فعال سازی</a> eCommerce "
+"tracking بر رویه Google Analytics."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:282
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:941
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:284
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:697
 msgid "Permalinks"
-msgstr ""
+msgstr "پیوند یکتا"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:287
 msgid "Prepend options"
-msgstr ""
+msgstr "Prepend options"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:288
 msgid "Prepend shop categories / tags with base page"
-msgstr ""
+msgstr "Prepend shop categories / tags with base page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:289
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:702
@@ -2338,20 +2390,24 @@ msgid ""
 "com / product_category / YourCategory<br/>Disabled: http://yoursite.com / "
 "base_page / product_category / YourCategory"
 msgstr ""
+"این تنها بر رویه تگ ها و دسته بندی ها فعال می شود. برای فعال سازی به آدرس "
+"زیر مراجعه کنید:<br/>http://yoursite.com / product_category / "
+"YourCategory<br/>برای غیرفعال سازی به آدرس زیر مراجعه کنید:<br/>http://"
+"yoursite.com / base_page / product_category / YourCategory"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:296
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:713
 msgid "Prepend product permalinks with shop base page"
-msgstr ""
+msgstr "Prepend product permalinks with shop base page"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:303
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:726
 msgid "Prepend product permalinks with product category"
-msgstr ""
+msgstr "Prepend product permalinks with product category"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:310
 msgid "Slug variables"
-msgstr ""
+msgstr "Slug variables"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:312
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:741
@@ -2359,11 +2415,13 @@ msgid ""
 "Slug displayed in product category URLs. Leave blank to use default "
 "\"product-category\""
 msgstr ""
+"Slug displayed in product category URLs. Leave blank to use default "
+"\"product-category\""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:321
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:748
 msgid "Product tag slug"
-msgstr ""
+msgstr "Product tag slug"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:322
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:750
@@ -2371,35 +2429,38 @@ msgid ""
 "Slug displayed in product tag URLs. Leave blank to use default \"product-tag"
 "\""
 msgstr ""
+"Slug displayed in product tag URLs. Leave blank to use default \"product-tag"
+"\""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:330
 msgid "Shop page configuration"
-msgstr ""
+msgstr "تنظیمات فروشگاه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:333
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:946
 msgid "Cart Page"
-msgstr ""
+msgstr "صفحه سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:334
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:947
 msgid "Shortcode to place on page: <code>[jigoshop_cart]</code>"
-msgstr ""
+msgstr "کد کوتاه برای وارد کردن در برگه وردپرس:  <code>[jigoshop_cart]</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:343
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:955
 msgid "Checkout Page"
-msgstr ""
+msgstr "صفحه پرداخت وجه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:344
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:956
 msgid "Shortcode to place on page: <code>[jigoshop_checkout]</code>"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس:  <code>[jigoshop_checkout]</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:353
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:964
 msgid "Pay Page"
-msgstr ""
+msgstr "صفحه پرداخت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:354
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:965
@@ -2407,11 +2468,13 @@ msgid ""
 "Shortcode to place on page: <code>[jigoshop_pay]</code><br/>Default parent "
 "page: Checkout"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس:  <code>[jigoshop_pay]</code><br/"
+">صفحه پیشفرض مادر: Checkout"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:363
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:973
 msgid "Thanks Page"
-msgstr ""
+msgstr "صفحه تشکر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:364
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:974
@@ -2419,21 +2482,24 @@ msgid ""
 "Shortcode to place on page: <code>[jigoshop_thankyou]</code><br/>Default "
 "parent page: Checkout"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس: <code>[jigoshop_thankyou]</code><br/"
+">صفحه پیشفرض مادر: Checkout"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:373
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:982
 msgid "My Account Page"
-msgstr ""
+msgstr "صفحه کاربری من"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:374
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:983
 msgid "Shortcode to place on page: <code>[jigoshop_my_account]</code>"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس:  <code>[jigoshop_my_account]</code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:383
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:991
 msgid "Edit Address Page"
-msgstr ""
+msgstr "ویرایش آدرس صفحات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:384
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:992
@@ -2441,11 +2507,13 @@ msgid ""
 "Shortcode to place on page: <code>[jigoshop_edit_address]</code><br/>Default "
 "parent page: My Account"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس:  <code>[jigoshop_edit_address]</"
+"code><br/>صفحه پیشفرض مادر: My Account"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:393
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1000
 msgid "View Order Page"
-msgstr ""
+msgstr "نمایش صفحه سفارشات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:394
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1001
@@ -2453,11 +2521,13 @@ msgid ""
 "Shortcode to place on page:<code>[jigoshop_view_order]</code><br/>Default "
 "parent page: My Account"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس: <code>[jigoshop_view_order]</"
+"code><br/>صفحه پیشفرض مادر: My Account"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:403
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1009
 msgid "Change Password Page"
-msgstr ""
+msgstr "صفحه تغییر پسورد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:404
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1010
@@ -2465,21 +2535,25 @@ msgid ""
 "Shortcode to place on page: <code>[jigoshop_change_password]</code><br/"
 ">Default parent page: My Account"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس: <code>[jigoshop_change_password]</"
+"code><br/>صفحه پیشفرض مادر: My Account"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:413
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1018
 msgid "Track Order Page"
-msgstr ""
+msgstr "صفحه پیگیری سفارشات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:414
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1019
 msgid "Shortcode to place on page: <code>[jigoshop_order_tracking]</code>"
 msgstr ""
+"کد کوتاه برای وارد کردن در برگه وردپرس: <code>[jigoshop_order_tracking]</"
+"code>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:423
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1027
 msgid "Terms Page"
-msgstr ""
+msgstr "صفحه قوانین"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:424
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1028
@@ -2487,21 +2561,23 @@ msgid ""
 "If you define a &#34;Terms&#34; page the customer will be asked to accept it "
 "before allowing them to place their order."
 msgstr ""
+"اگر شما صفحه &#34;قوانین&#34; را مشخص کنید، مشتری قبل از خرید باید قوانین را "
+"بپذیرد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:435
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1040
 msgid "Catalog &amp; Pricing"
-msgstr ""
+msgstr "Catalog &amp; Pricing"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:437
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1042
 msgid "Catalog Options"
-msgstr ""
+msgstr "تنظیمات کاتالوگ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:441
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1045
 msgid "Catalog base page"
-msgstr ""
+msgstr "صفحه اصلی کاتالوگ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:443
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1047
@@ -2510,11 +2586,13 @@ msgid ""
 "you have launched your site otherwise you risk breaking urls of other sites "
 "pointing to yours, etc."
 msgstr ""
+"این پیشفرض لینک های فروشگاه شما می باشد. پس از مشخص کردن آن دیگر نباید آن را "
+"تغییر دهید، در غیر این صورت با لینک های شکسته مواجه خواهید شد و ... ."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:450
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1054
 msgid "Shop redirection page"
-msgstr ""
+msgstr "صفحه بازگشت به فروشگاه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:452
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1056
@@ -2522,87 +2600,91 @@ msgid ""
 "This will point users to the page you set for buttons like `Return to shop` "
 "or `Continue Shopping`."
 msgstr ""
+"این گزینه کاربران را با دکمه هایی مانند &quot; بازگشت به فروشگاه &quot; یا "
+"&quot; ادامه خرید &quot; راهنمایی می کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:460
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1063
 msgid "Sort products in catalog by"
-msgstr ""
+msgstr "مرتب سازی کاتالوگ محصولات با"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:462
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1065
 msgid ""
 "Determines the display sort order of products for the Shop, Categories, and "
 "Tag pages."
-msgstr ""
+msgstr "تعیین ترتیب نمایش محصولات برای فروشگاه، دسته ها و برچسب ها."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:467
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1070
 msgid "Creation Date"
-msgstr ""
+msgstr "تاریخ ایجاد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:468
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1071
 msgid "Product Title"
-msgstr ""
+msgstr "عنوان محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:469
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1072
 msgid "Product Post Order"
-msgstr ""
+msgstr "سفارش محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:474
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1077
 msgid "Catalog sort direction"
-msgstr ""
+msgstr "مرتب سازی کاتالوگ بر اساس direction"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:476
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1079
 msgid "Determines whether the catalog sort orderby is ascending or descending."
-msgstr ""
+msgstr "تعیین ترتیب صعودی یا نزولی بودن سفارشات فروشگاه."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:481
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1084
 msgid "Ascending"
-msgstr ""
+msgstr "صعودی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:482
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1085
 msgid "Descending"
-msgstr ""
+msgstr "نزولی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:487
 msgid "Catalog products display"
-msgstr ""
+msgstr "نمایش کاتالوگ محصولات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:488
 msgid "Per row"
-msgstr ""
+msgstr "در هر ردیف"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:489
 msgid ""
 "Determines how many products to show on one display row for Shop, Category "
 "and Tag pages. Default = 3."
-msgstr ""
+msgstr "تعیین تعداد نمایش محصولات در فروشگاه، دسته ها و برچسب ها. پیشفرض = 3."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:499
 msgid "Per page"
-msgstr ""
+msgstr "در هر صفحه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:500
 msgid ""
 "Determines how many products to display on Shop, Category and Tag pages "
 "before needing next and previous page navigation. Default = 12."
 msgstr ""
+"تعیین تعداد نمایش محصولات در فروشگاه، دسته ها و برچسب ها در  هرصفحه. پیشفرض "
+"= 12."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:509
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1117
 msgid "Pricing Options"
-msgstr ""
+msgstr "تنظیمات قیمت گذاری"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:512
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:538
 msgid "Currency"
-msgstr ""
+msgstr "واحد پول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:513
 #, php-format
@@ -2611,181 +2693,184 @@ msgid ""
 "currency PayPal, and other gateways, will take payments in. See the list of "
 "supported <a target='_new' href='%s'>PayPal currencies</a>."
 msgstr ""
+"This controls what currency prices are listed at in the catalog, and which "
+"currency PayPal, and other gateways, will take payments in. See the list of "
+"supported <a target='_new' href='%s'>PayPal currencies</a>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:520
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:545
 msgid "United Arab Emirates dirham (&#1583;&#46;&#1573;)"
-msgstr ""
+msgstr "United Arab Emirates dirham (&#1583;&#46;&#1573;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:521
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:546
 msgid "Australian Dollar (&#36;)"
-msgstr ""
+msgstr "Australian Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:522
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:547
 msgid "Brazilian Real (&#82;&#36;)"
-msgstr ""
+msgstr "Brazilian Real (&#82;&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:523
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:548
 msgid "Canadian Dollar (&#36;)"
-msgstr ""
+msgstr "Canadian Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:524
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:549
 msgid "Swiss Franc (SFr.)"
-msgstr ""
+msgstr "Swiss Franc (SFr.)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:525
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:550
 msgid "Chinese yuan (&#165;)"
-msgstr ""
+msgstr "Chinese yuan (&#165;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:526
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:551
 msgid "Czech Koruna (&#75;&#269;)"
-msgstr ""
+msgstr "Czech Koruna (&#75;&#269;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:527
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:552
 msgid "Danish Krone (kr)"
-msgstr ""
+msgstr "Danish Krone (kr)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:528
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:553
 msgid "Euro (&euro;)"
-msgstr ""
+msgstr "Euro (&euro;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:529
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:554
 msgid "Pounds Sterling (&pound;)"
-msgstr ""
+msgstr "Pounds Sterling (&pound;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:530
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:555
 msgid "Hong Kong Dollar (&#36;)"
-msgstr ""
+msgstr "Hong Kong Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:531
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:556
 msgid "Croatian Kuna (&#107;&#110;)"
-msgstr ""
+msgstr "Croatian Kuna (&#107;&#110;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:532
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:557
 msgid "Hungarian Forint (&#70;&#116;)"
-msgstr ""
+msgstr "Hungarian Forint (&#70;&#116;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:533
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:558
 msgid "Indonesia Rupiah (&#82;&#112;)"
-msgstr ""
+msgstr "Indonesia Rupiah (&#82;&#112;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:534
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:559
 msgid "Israeli Shekel (&#8362;)"
-msgstr ""
+msgstr "Israeli Shekel (&#8362;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:535
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:560
 msgid "Indian Rupee (&#8360;)"
-msgstr ""
+msgstr "Indian Rupee (&#8360;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:536
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:561
 msgid "Japanese Yen (&yen;)"
-msgstr ""
+msgstr "Japanese Yen (&yen;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:537
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:562
 msgid "Mexican Peso (&#36;)"
-msgstr ""
+msgstr "Mexican Peso (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:538
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:563
 msgid "Malaysian Ringgits (RM)"
-msgstr ""
+msgstr "Malaysian Ringgits (RM)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:539
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:564
 msgid "Nigerian Naira (&#8358;)"
-msgstr ""
+msgstr "Nigerian Naira (&#8358;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:540
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:565
 msgid "Norwegian Krone (kr)"
-msgstr ""
+msgstr "Norwegian Krone (kr)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:541
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:566
 msgid "New Zealand Dollar (&#36;)"
-msgstr ""
+msgstr "New Zealand Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:542
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:567
 msgid "Philippine Pesos (&#8369;)"
-msgstr ""
+msgstr "Philippine Pesos (&#8369;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:543
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:568
 msgid "Polish Zloty (&#122;&#322;)"
-msgstr ""
+msgstr "Polish Zloty (&#122;&#322;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:544
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:569
 msgid "Romanian New Leu (&#108;&#101;&#105;)"
-msgstr ""
+msgstr "Romanian New Leu (&#108;&#101;&#105;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:545
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:570
 msgid "Russian Ruble (&#1088;&#1091;&#1073;)"
-msgstr ""
+msgstr "Russian Ruble (&#1088;&#1091;&#1073;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:546
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:571
 msgid "Swedish Krona (kr)"
-msgstr ""
+msgstr "Swedish Krona (kr)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:547
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:572
 msgid "Singapore Dollar (&#36;)"
-msgstr ""
+msgstr "Singapore Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:548
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:573
 msgid "Thai Baht (&#3647;)"
-msgstr ""
+msgstr "Thai Baht (&#3647;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:549
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:574
 msgid "Turkish Lira (&#8356;)"
-msgstr ""
+msgstr "Turkish Lira (&#8356;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:550
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:575
 msgid "Taiwan New Dollar (&#36;)"
-msgstr ""
+msgstr "Taiwan New Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:551
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:576
 msgid "US Dollar (&#36;)"
-msgstr ""
+msgstr "US Dollar (&#36;)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:552
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:577
 msgid "South African rand (R)"
-msgstr ""
+msgstr "South African rand (R)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:558
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1124
 msgid "Currency display"
-msgstr ""
+msgstr "نمایش واحد پول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:559
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1125
 msgid "This controls the display of the currency symbol and currency code."
-msgstr ""
+msgstr "نحوه نمایش و نماد واحد پول در فروشگاه."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:566
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:568
@@ -2804,7 +2889,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1139
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1141
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:567
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:571
@@ -2815,36 +2900,36 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1140
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1142
 msgid " 0"
-msgstr ""
+msgstr " 0"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:582
 msgid "Price Separators"
-msgstr ""
+msgstr "جداکننده قیمت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:583
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1147
 msgid "Thousand separator"
-msgstr ""
+msgstr "جداکننده هر هزارتا"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:592
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1156
 msgid "Decimal separator"
-msgstr ""
+msgstr "جداسازی دهدهی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:601
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1165
 msgid "Number of decimals"
-msgstr ""
+msgstr "تعداد د هدهی ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:612
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1177
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:614
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1179
 msgid "Image Options"
-msgstr ""
+msgstr "تنظیمات تصاویر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:614
 #, php-format
@@ -2860,148 +2945,161 @@ msgid ""
 "strong> Your images may not display in the size you choose below. This is "
 "because they may still be affected by CSS styles, that is, your theme."
 msgstr ""
+"<p>تغییر هر یک از این تنظیمات در ابعاد تصاویر مورد استفاده در فروشگاه شما "
+"تاثیر می گذارد. پس از تغییر این تنظیمات شما ممکن است نیاز به <a href=\"%s"
+"\">بازسازی تصاویر بندانگشتی داشته باشد.</a>.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>بریدن: چنانچه در "
+"تنظیمات تغییری ایجاد نکنید، سیستم به صورت خودکار متناسب با اندازه عکس (بدون "
+"حذف چیزی در تصویر) اندازه تصاویر را تغییر می دهد. چنانچه در تنظیمات تغییری "
+"ایجاد کنید اندازه تصویر متناسب با با اندازه های وارد شده تغییر می کند.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p><strong>توجه:</"
+"strong>ممکن است تصاویر شما با اندازه های وارد شده نمایش داده نشود و دلیل آن، "
+"این می باشد که تصاویر ممکن است تحت تاثیر استایل قالب شما باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:619
 msgid "Tiny Images"
-msgstr ""
+msgstr "تصاویر کوچک"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:620
 msgid "Cart, Checkout, Orders and Widgets"
-msgstr ""
+msgstr "خرید، پرداخت، سفارشات و ابزارک ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:628
 msgid "Thumbnail Images"
-msgstr ""
+msgstr "تصاویر بندانگشتی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:629
 msgid "Single Product page extra images."
-msgstr ""
+msgstr "Single Product page extra images."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:637
 msgid "Catalog Images"
-msgstr ""
+msgstr "کاتالوگ تصاویر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:638
 msgid "Shop, Categories, Tags, and Related Products."
-msgstr ""
+msgstr "فروشگاه، دسته ها، برچسب ها و محصولات مرتبط."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:646
 msgid "Large Images"
-msgstr ""
+msgstr "تصاویر بزرگ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:647
 msgid "Single Product pages"
-msgstr ""
+msgstr "صفحه توضیحات محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:658
 msgid "Coupon Information"
-msgstr ""
+msgstr "اطلاعات کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:658
 msgid ""
 "<div>Coupons allow you to give your customers special offers and discounts. "
 "</div>"
 msgstr ""
+"<div>کوپن ها به شما اجازه می دهد تا به مشتریان خود تخفیف ویژه دهید.</div>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:662
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:889
 msgid "All fields are required."
-msgstr ""
+msgstr "پر کردن تمامی فیلدها الزامی است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:671
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1313
 msgid "Products &amp; Inventory"
-msgstr ""
+msgstr "Products &amp; Inventory"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:673
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1315
 msgid "Product Options"
-msgstr ""
+msgstr "تنظیمات محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:676
 msgid "Product fields"
-msgstr ""
+msgstr "زمینه های دلخواه محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:677
 msgid "Enable SKU"
-msgstr ""
+msgstr "فعال سازی SKU"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:678
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1320
 msgid "Turning off the SKU field will give products an SKU of their post id."
-msgstr ""
+msgstr "Turning off the SKU field will give products an SKU of their post id."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:685
 msgid "Enable weight"
-msgstr ""
+msgstr "فعال کردن وزن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:693
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1357
 msgid "Enable product dimensions"
-msgstr ""
+msgstr "فعال کردن ابعاد محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:701
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1344
 msgid "Weight Unit"
-msgstr ""
+msgstr "وزن هر واحد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:702
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1346
 msgid "This controls what unit you will define weights in."
-msgstr ""
+msgstr "توسط این گزینه می توانید واحد وزن را تعریف کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:707
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1351
 msgid "Kilograms"
-msgstr ""
+msgstr "کیلوگرم"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:708
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1352
 msgid "Pounds"
-msgstr ""
+msgstr "پوند"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:713
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1370
 msgid "Dimensions Unit"
-msgstr ""
+msgstr "ابعاد هر واحد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:714
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1372
 msgid "This controls what unit you will define dimensions in."
-msgstr ""
+msgstr "توسط این گزینه می توانید ابعاد هر واحد را تعریف کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:719
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1377
 msgid "centimeters"
-msgstr ""
+msgstr "کیلومتر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:720
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1378
 msgid "inches"
-msgstr ""
+msgstr "اینچ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:725
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1383
 msgid "Show related products"
-msgstr ""
+msgstr "نمایش محصولات مرتبط"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:727
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1385
 msgid "To show or hide the related products section on a single product page."
 msgstr ""
+"این گزینه برای نمایش یا مخفی کردن محصولات مرتبط در صفحه توضیحات محصول (ادامه "
+"مطلب) می باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:733
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1395
 msgid "Inventory Options"
-msgstr ""
+msgstr "تنظیمات دارایی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:736
 msgid "General inventory options"
-msgstr ""
+msgstr "گزینه های موجودی عمومی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:737
 msgid "Enable product stock"
-msgstr ""
+msgstr "فعال کردن انبار محصولات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:738
 msgid ""
@@ -3009,11 +3107,14 @@ msgid ""
 "on the front-end. You can manage stock on a per-item basis if you leave this "
 "option on."
 msgstr ""
+"If you are not managing stock, turn it off here to disable it in admin and "
+"on the front-end. You can manage stock on a per-item basis if you leave this "
+"option on."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:745
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1411
 msgid "Show stock amounts"
-msgstr ""
+msgstr "نمایش مقدار سهام"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:746
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1413
@@ -3021,25 +3122,27 @@ msgid ""
 "Set to yes to allow customers to view the amount of stock available for a "
 "product."
 msgstr ""
+"اگر این گزینه فعال باشد به مشتریان اجازه می دهد تا سهام در دسترس یک محصول را "
+"مشاهده کنند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:753
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1466
 msgid "Hide out of stock products"
-msgstr ""
+msgstr "Hide out of stock products"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:761
 msgid "Notifications"
-msgstr ""
+msgstr "اطلاعیه ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:762
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1424
 msgid "Notify on low stock"
-msgstr ""
+msgstr "باخبرسازی در هنگام کاهش محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:769
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1436
 msgid "Low stock threshold"
-msgstr ""
+msgstr "Low stock threshold"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:770
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:789
@@ -3049,29 +3152,31 @@ msgid ""
 "You will receive a notification as soon this threshold is hit (if "
 "notifications are turned on)."
 msgstr ""
+"چنانچه این گزینه فعال باشه به شما در هنگامی که محصول به حد تعیین شده رسید، "
+"اطلاع رسانی می کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:780
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1445
 msgid "Notify on out of stock"
-msgstr ""
+msgstr "Notify on out of stock"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:788
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1457
 msgid "Out of stock threshold"
-msgstr ""
+msgstr "Out of stock threshold"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:804
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1562
 msgid "Shipping Options"
-msgstr ""
+msgstr "گزینه های حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:807
 msgid "General shipping settings"
-msgstr ""
+msgstr "تنظیمات عمومی حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:808
 msgid "Calculate shipping"
-msgstr ""
+msgstr "محاسبه حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:809
 msgid ""
@@ -3079,45 +3184,50 @@ msgid ""
 "costs included. If you are not calculating shipping then you can ignore all "
 "other tax options."
 msgstr ""
+"Only set this to no if you are not shipping items, or items have shipping "
+"costs included. If you are not calculating shipping then you can ignore all "
+"other tax options."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:816
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1578
 msgid "Enable shipping calculator on cart"
-msgstr ""
+msgstr "Enable shipping calculator on cart"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:824
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1591
 msgid "Only ship to billing address?"
-msgstr ""
+msgstr "Only ship to billing address?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:835
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1482
 msgid "Tax"
-msgstr ""
+msgstr "Tax"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:837
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1484
 msgid "Tax Options"
-msgstr ""
+msgstr "تنظیمات مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:840
 msgid "General tax options"
-msgstr ""
+msgstr "گزینه های عمومی مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:841
 msgid "Enable tax calculation"
-msgstr ""
+msgstr "فعال کردن محاسبه مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:842
 msgid ""
 "Only disable this if you are exclusively selling non-taxable items. If you "
 "are not calculating taxes then you can ignore all other tax options."
 msgstr ""
+"Only disable this if you are exclusively selling non-taxable items. If you "
+"are not calculating taxes then you can ignore all other tax options."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:849
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1500
 msgid "Apply Taxes After Coupon"
-msgstr ""
+msgstr "اعمال مالیات پس از کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:850
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1502
@@ -3125,90 +3235,95 @@ msgid ""
 "If yes, taxes get applied after coupons. When no, taxes get applied before "
 "coupons."
 msgstr ""
+"If yes, taxes get applied after coupons. When no, taxes get applied before "
+"coupons."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:857
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1513
 msgid "Catalog Prices include tax?"
-msgstr ""
+msgstr "Catalog Prices include tax?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:858
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1515
 msgid "If prices include tax then tax calculations will work backwards."
-msgstr ""
+msgstr "If prices include tax then tax calculations will work backwards."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:865
 msgid "Cart total displays"
-msgstr ""
+msgstr "نمایش سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:867
 msgid ""
 "Should the subtotal be shown including or excluding tax on the frontend?"
 msgstr ""
+"Should the subtotal be shown including or excluding tax on the frontend?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:872
 msgid "price including tax"
-msgstr ""
+msgstr "قیمت با احتساب مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:873
 msgid "price excluding tax"
-msgstr ""
+msgstr "قیمت بدون احتساب مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:878
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1539
 msgid "Additional Tax classes"
-msgstr ""
+msgstr "طبقات مالیاتی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:879
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1540
 msgid ""
 "List 1 per line. This is in addition to the default <em>Standard Rate</em>."
 msgstr ""
+"List 1 per line. This is in addition to the default <em>Standard Rate</em>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:880
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1541
 msgid ""
 "List product and shipping tax classes here, e.g. Zero Tax, Reduced Rate."
 msgstr ""
+"List 1 per line. This is in addition to the default <em>Standard Rate</em>."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:884
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1544
 #, php-format
 msgid "Reduced Rate%sZero Rate"
-msgstr ""
+msgstr "Reduced Rate%sZero Rate"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:888
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1548
 msgid "Tax rates"
-msgstr ""
+msgstr "نرخ مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:890
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1550
 msgid "To avoid rounding errors, insert tax rates with 4 decimal places."
-msgstr ""
+msgstr "To avoid rounding errors, insert tax rates with 4 decimal places."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings-options.php:899
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:1611
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/gateways/gateway.class.php:30
 msgid "Payment Gateways"
-msgstr ""
+msgstr "Payment Gateways"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:343
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:345
 msgid "Save changes"
-msgstr ""
+msgstr "ذخیره تغییرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:612
 msgid "Crop"
-msgstr ""
+msgstr "بریدن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:722
 msgid "+ Add Coupon"
-msgstr ""
+msgstr "+ اضافه کردن کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:774
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1048
 msgid "The coupon code a customer enters on the cart or checkout page."
-msgstr ""
+msgstr "The coupon code a customer enters on the cart or checkout page."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:783
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1061
@@ -3216,6 +3331,8 @@ msgid ""
 "Cart - Applies to whole cart<br/>Product - Applies to individual products "
 "only. You must specify individual products."
 msgstr ""
+"Cart - Applies to whole cart<br/>Product - Applies to individual products "
+"only. You must specify individual products."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:792
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1078
@@ -3224,70 +3341,73 @@ msgid ""
 "Amount this coupon is worth. If it is a percentange, just include the number "
 "without the percentage sign."
 msgstr ""
+"Amount this coupon is worth. If it is a percentange, just include the number "
+"without the percentage sign."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:800
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1094
 msgid "Usage limit"
-msgstr ""
+msgstr "محدودیت استفاده"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:802
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1098
 msgid "No limit"
-msgstr ""
+msgstr "بدون محدودیت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:803
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1092
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:94
 msgid "Control how many times this coupon may be used."
 msgstr ""
+"تنظیمات اینکه این کوپن چندبار استفاده شود. (چندبار قابل استفاده باشد.)."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:811
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1106
 msgid "Order subtotal"
-msgstr ""
+msgstr "Order subtotal"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:812
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1110
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:127
 msgid "No min"
-msgstr ""
+msgstr "بدون حداقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:813
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1111
 msgid "Min"
-msgstr ""
+msgstr "حداقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:814
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1104
 msgid "Set the required subtotal for this coupon to be valid on an order."
-msgstr ""
+msgstr "Set the required subtotal for this coupon to be valid on an order."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:823
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1118
 msgid "Max"
-msgstr ""
+msgstr "حداکثر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:824
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1117
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:137
 msgid "No max"
-msgstr ""
+msgstr "بدون حداکثر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:833
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1124
 msgid "Payment methods"
-msgstr ""
+msgstr "روش های پرداخت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:834
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1122
 msgid "Which payment methods are allowed for this coupon to be effective?"
-msgstr ""
+msgstr "Which payment methods are allowed for this coupon to be effective?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:852
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1137
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:153
 msgid "Control which products this coupon can apply to."
-msgstr ""
+msgstr "Control which products this coupon can apply to."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:857
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:879
@@ -3295,37 +3415,37 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1151
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:233
 msgid "Any product"
-msgstr ""
+msgstr "هر محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:872
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:900
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1144
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1163
 msgid "Include"
-msgstr ""
+msgstr "شامل شدن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:892
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:913
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1151
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1173
 msgid "Exclude"
-msgstr ""
+msgstr "شامل نشدن (مانع شدن)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:901
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1155
 msgid "Control which categories this coupon can apply to."
-msgstr ""
+msgstr "Control which categories this coupon can apply to."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:925
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1179
 msgid "Dates allowed"
-msgstr ""
+msgstr "Dates allowed"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:926
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1184
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:161
 msgid "From"
-msgstr ""
+msgstr "از"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:927
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:938
@@ -3334,224 +3454,229 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:69
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:82
 msgid "Any date"
-msgstr ""
+msgstr "Any date"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:928
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1177
 msgid "Choose between which dates this coupon is enabled."
-msgstr ""
+msgstr "Choose between which dates this coupon is enabled."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:937
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1190
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:164
 msgid "To"
-msgstr ""
+msgstr "به"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:947
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1196
 msgid "Misc. settings"
-msgstr ""
+msgstr "متفرقه.تنظیمات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:949
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1194
 msgid ""
 "Prevent other coupons from being used while this one is applied to a cart."
 msgstr ""
+"Prevent other coupons from being used while this one is applied to a cart."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:956
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1206
 msgid "Show the Free Shipping method on checkout with this enabled."
-msgstr ""
+msgstr "Show the Free Shipping method on checkout with this enabled."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1018
 msgid "Delete this Coupon"
-msgstr ""
+msgstr "حذف کردن این کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1031
 msgid "Hide"
-msgstr ""
+msgstr "پنهان کردن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1067
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_coupons.class.php:39
 msgid "Cart Discount"
-msgstr ""
+msgstr "تخفف سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1068
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_coupons.class.php:40
 msgid "Cart % Discount"
-msgstr ""
+msgstr "% تخفیف سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1069
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_coupons.class.php:41
 msgid "Product Discount"
-msgstr ""
+msgstr "تخفیف محصولات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1070
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_coupons.class.php:42
 msgid "Product % Discount"
-msgstr ""
+msgstr "% تخفیف محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1201
 msgid "Prevent other coupons"
-msgstr ""
+msgstr "جلوگیری استفاده از کوپن های دیگر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1212
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:111
 msgid "Free shipping"
-msgstr ""
+msgstr "حمل و نقل رایگان"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1272
 msgid "Delete this coupon?"
-msgstr ""
+msgstr "این کوپن را حذف کنید؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1375
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1376
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1419
 msgid "Rate"
-msgstr ""
+msgstr "نرخ"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-settings.php:1475
 msgid "Your settings have been saved."
-msgstr ""
+msgstr "تنظیمات شما ذخیره شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:28
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:80
 msgid "Thumbnail"
-msgstr ""
+msgstr "تصویر کوچک"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:32
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:85
 msgid "Upload/Add image"
-msgstr ""
+msgstr "آپلود/اضافه کردن تصویر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:33
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin-taxonomies.php:86
 msgid "Remove image"
-msgstr ""
+msgstr "حذف تصویر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:50
 #, php-format
 msgid "Your database needs an update. Please <strong>backup</strong> &amp; %s."
 msgstr ""
+"پایگاه داده (دیتابیس) نیاز به بروزرسانی دارد. لطفا نسخه پشتیبان تهیه کنید از "
+"%s."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:50
 msgid "update now"
-msgstr ""
+msgstr "به روز رسانی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:72
 msgid "Dashboard"
-msgstr ""
+msgstr "داشبورد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:73
 msgid "Reports"
-msgstr ""
+msgstr "گزارشات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:87
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:137
 msgid "System Information"
-msgstr ""
+msgstr "اطلاعات سیستم"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:87
 msgid "System Info"
-msgstr ""
+msgstr "اطلاعات سیستم"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:177
 msgid "On"
-msgstr ""
+msgstr "روشن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:177
 msgid "Off"
-msgstr ""
+msgstr "خاموش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:179
 msgid "Your server supports fsockopen."
-msgstr ""
+msgstr "سرور شما از  fsockopen پشتیبانی می کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:179
 msgid "Your server does not support fsockopen."
-msgstr ""
+msgstr "سرور شما از  fsockopen پشتیبانی نمی کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:228
 msgid "You do not have sufficient permissions to access this page."
-msgstr ""
+msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:410
 msgid "No comments yet."
-msgstr ""
+msgstr "هنوز نظری نوشته نشده است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-admin.php:437
 msgid "Number of comments to show:"
-msgstr ""
+msgstr "تعداد نظرات نمایش داده شده:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:122
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:524
 msgid "Shop"
-msgstr ""
+msgstr "Shop"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:131
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/widgets/cart.php:59
 msgid "Cart"
-msgstr ""
+msgstr "سبد خرید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:135
 msgid "Track your order"
-msgstr ""
+msgstr "پیگیری سفارشات شما"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:139
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/widgets/user_login.php:62
 msgid "My Account"
-msgstr ""
+msgstr "اکانت من"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:143
 msgid "Edit My Address"
-msgstr ""
+msgstr "تغییر آدرس"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:148
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/widgets/user_login.php:63
 msgid "Change Password"
-msgstr ""
+msgstr "تغییر پسورد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:158
 msgid "Checkout"
-msgstr ""
+msgstr "پرداخت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:163
 msgid "Checkout &rarr; Pay"
-msgstr ""
+msgstr "Checkout &rarr; Pay"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-install.php:168
 msgid "Thank you"
-msgstr ""
+msgstr "با تشکر از شما"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:37
 msgid "Product Data"
-msgstr ""
+msgstr "اطلاعات محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:39
 msgid "Order Data"
-msgstr ""
+msgstr "سفارش داده ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:40
 msgid ""
 "Order Items <small>&ndash; Note: if you edit quantities or remove items from "
 "the order you will need to manually change the item's stock levels.</small>"
 msgstr ""
+"Order Items <small>&ndash; Note: if you edit quantities or remove items from "
+"the order you will need to manually change the item's stock levels.</small>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:41
 msgid "Order Totals"
-msgstr ""
+msgstr "مجموع سفارشات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:43
 msgid "Order Actions"
-msgstr ""
+msgstr "عملیات سفارش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:48
 msgid "Coupon Data"
-msgstr ""
+msgstr "اطلاعات کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:127
 msgid "Coupon code"
-msgstr ""
+msgstr "کد کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:178
 msgid ""
@@ -3559,206 +3684,214 @@ msgid ""
 "order was submitted by a customer, will need to manually restore the item's "
 "stock."
 msgstr ""
+"Remove this item? If you have previously reduced this item's stock, or this "
+"order was submitted by a customer, will need to manually restore the item's "
+"stock."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:179
 msgid "Calc totals based on order items and taxes?"
-msgstr ""
+msgstr "Calc totals based on order items and taxes?"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:180
 msgid ""
 "Copy billing information to shipping information? This will remove any "
 "currently entered shipping information."
 msgstr ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:182
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:200
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:183
 msgid "Item Name"
-msgstr ""
+msgstr "نام آیتم ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:185
 msgid "Cost per unit e.g. 2.99"
-msgstr ""
+msgstr "هزینه هر واحد به عنوان مثال 2.99"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:187
 msgid "Meta Name"
-msgstr ""
+msgstr "نام متا"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/jigoshop-write-panels.php:188
 msgid "Meta Value"
-msgstr ""
+msgstr "مقدار متا"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:44
 msgid "Coupon Type"
-msgstr ""
+msgstr "نوع کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:52
 msgid "Coupon Amount"
-msgstr ""
+msgstr "مقدار کوپن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:55
 msgid "Enter an amount e.g. 9.99."
-msgstr ""
+msgstr "مقدار را وارد کنید، به عنوان مثال 9.99."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:65
 msgid "Date From"
-msgstr ""
+msgstr "Date From"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:66
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:79
 msgid "yyyy-mm-dd"
-msgstr ""
+msgstr "yyyy-mm-dd"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:67
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:80
 msgid ""
 "Choose between which dates this coupon is enabled.  Leave empty for any date."
 msgstr ""
+"Choose between which dates this coupon is enabled.  Leave empty for any date."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:78
 msgid "Date To"
-msgstr ""
+msgstr "Date To"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:91
 msgid "Usage Limit"
-msgstr ""
+msgstr "محدودیت استفاده"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:103
 msgid ""
 "Prevent other coupons from being used while this one is applied to the Cart."
 msgstr ""
+"Prevent other coupons from being used while this one is applied to the Cart."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:112
 msgid "Show the Free Shipping method on the Checkout with this enabled."
 msgstr ""
+"با فعال کردن این گزینه حمل و نقل رایگان در صفحه پرداخت نمایش داده خواهد شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:124
 msgid "Order total min"
-msgstr ""
+msgstr "حداقل سفارش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:126
 msgid ""
 "Set the required minimum subtotal for this coupon to be valid on an order."
-msgstr ""
+msgstr "حداقل هزینه ای که برای فعال شدن کوپن بر روی محصول لازم است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:134
 msgid "Order total max"
-msgstr ""
+msgstr "حداکثر سفارش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:136
 msgid ""
 "Set the required maximum subtotal for this coupon to be valid on an order."
-msgstr ""
+msgstr "حداکثر هزینه ای که کوپن بر رویه محصول قابل استفاده است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:152
 msgid "Include Products"
-msgstr ""
+msgstr "شامل محصولات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:165
 msgid "Exclude Products"
-msgstr ""
+msgstr "محصولات استثناء"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:166
 msgid "Control which products this coupon cannot be applied to."
-msgstr ""
+msgstr "مدیریت محصولاتی که شامل این کوپن نمی شوند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:182
 msgid "Include Categories"
-msgstr ""
+msgstr "شامل دسته بندی ها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:183
 msgid "Control which product categories this coupon can apply to."
-msgstr ""
+msgstr "مدیریت دسته بندی هایی که شامل این کوپن نمی شوند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:185
 msgid "Any category"
-msgstr ""
+msgstr "هر دسته"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:193
 msgid "Exclude Categories"
-msgstr ""
+msgstr "دسته های استثناء"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:194
 msgid "Control which product categories this coupon cannot be applied to."
-msgstr ""
+msgstr "مدیریت دسته محصولاتی که شامل این کوپن نمی شوند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:196
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:273
 msgid "No exclusions"
-msgstr ""
+msgstr "بدون استثناء"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:212
 msgid "Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:213
 msgid ""
 "Control which payment methods are allowed for this coupon to be effective."
-msgstr ""
+msgstr "مدیریت روش های پرداختی که شامل این کوپن می شوند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/coupon-data.php:215
 msgid "Any method"
-msgstr ""
+msgstr "هر روشی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:191
 msgid "Manually reducing stock."
-msgstr ""
+msgstr "کاهش دستی انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:205
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_order.class.php:609
 #, php-format
 msgid "Item #%s stock reduced from %s to %s."
-msgstr ""
+msgstr "آیتم #%s در انبار از %s به %s کاهش یافت."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:222
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:247
 #, php-format
 msgid "Item %s %s not found, skipping."
-msgstr ""
+msgstr "آیتم  %s %s یافت نشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:226
 msgid "Manual stock reduction complete."
-msgstr ""
+msgstr "کاهش دستی انبار انجام شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:229
 msgid "Manually restoring stock."
-msgstr ""
+msgstr "بازگرداندن دستی انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:243
 #, php-format
 msgid "Item #%s stock increased from %s to %s."
-msgstr ""
+msgstr "آیتم #%s در انبار از %s به %s افزایش یافت."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data-save.php:251
 msgid "Manual stock restore complete."
-msgstr ""
+msgstr "بازگرداندن دستی انبار انجام شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:64
 msgid "Customer Billing Address"
-msgstr ""
+msgstr "آدرس صورت حساب مشتری"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:66
 msgid "Customer Shipping Address"
-msgstr ""
+msgstr "آدرس حمل و نقل مشتری"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:72
 msgid "Order status:"
-msgstr ""
+msgstr "وضعیت سفارش:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:92
 msgid "Customer:"
-msgstr ""
+msgstr "مشتری:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:111
 msgid "Customer Note:"
-msgstr ""
+msgstr "توجه کنید:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:112
 msgid "Customer's notes about the order"
-msgstr ""
+msgstr "اطلاعیه در مورد سفارش برای مشتری"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:120
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:155
@@ -3769,7 +3902,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:199
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:200
 msgid "Company"
-msgstr ""
+msgstr "شرکت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:121
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:156
@@ -3780,7 +3913,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:185
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:186
 msgid "First Name"
-msgstr ""
+msgstr "نام"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:122
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:157
@@ -3791,7 +3924,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:192
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:193
 msgid "Last Name"
-msgstr ""
+msgstr "نام خانوادگی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:123
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:158
@@ -3799,7 +3932,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:157
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:206
 msgid "Address 1"
-msgstr ""
+msgstr "آدرس 1"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:124
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:159
@@ -3810,7 +3943,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:212
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:213
 msgid "Address 2"
-msgstr ""
+msgstr "آدرس 2"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:125
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:160
@@ -3821,7 +3954,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:219
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:220
 msgid "City"
-msgstr ""
+msgstr "شهر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:127
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:162
@@ -3829,7 +3962,7 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:127
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:237
 msgid "Country"
-msgstr ""
+msgstr "کشور"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:128
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:163
@@ -3839,111 +3972,116 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_customer.class.php:317
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:245
 msgid "State/County"
-msgstr ""
+msgstr "شهر/کشور"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:129
 msgid "Tel"
-msgstr ""
+msgstr "شماره تماس"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:130
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:106
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:253
 msgid "Email Address"
-msgstr ""
+msgstr "آدرس ایمیل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:150
 msgid "Copy billing address to shipping address"
-msgstr ""
+msgstr "کپی آدرس صورت حساب به آدرس حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:201
 msgid "Variation ID"
-msgstr ""
+msgstr "Variation ID"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:203
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/templates/single-product-reviews.php:94
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:205
 msgid "Order Item Meta"
-msgstr ""
+msgstr "Order Item Meta"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:207
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/cart.php:102
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/order_tracking.php:62
 msgid "Quantity"
-msgstr ""
+msgstr "تعداد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:208
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/flat_rate.php:108
 msgid "Cost"
-msgstr ""
+msgstr "هزینه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:209
 msgid "Tax Rate"
-msgstr ""
+msgstr "نرخ مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:236
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_order.class.php:351
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/templates/checkout/review_order.php:96
 msgid " Personal: "
-msgstr ""
+msgstr "شخصی:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:289
 msgid "Choose a Product"
-msgstr ""
+msgstr "یک محصول انتخاب کنید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:331
 msgid "Add item"
-msgstr ""
+msgstr "افزودن آیتم"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:334
 msgid "Calculate totals"
-msgstr ""
+msgstr "محاسبه مجموع"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:352
 msgid "Save Order"
-msgstr ""
+msgstr "ذخیره سفارش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:352
 msgid "- Save/update the order."
-msgstr ""
+msgstr "- ذخیره/بروزرسانی سفارش."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:354
 msgid "Reduce stock"
-msgstr ""
+msgstr "کاهش انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:354
 msgid ""
 "- Reduces stock for each item in the order; useful after manually creating "
 "an order or manually marking an order as complete/processing after payment."
 msgstr ""
+"- کاهش انبار برای هر آیتم در هر سفارش؛ پس از ایجاد سفارش به صورت دستی یا "
+"علامت گذاری سفارش به عنوان سفارشات انجام شده یا سفارشات درحال ارسال بعد از "
+"پرداخت مناسب است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:355
 msgid "Restore stock"
-msgstr ""
+msgstr "بازگرداندن انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:355
 msgid ""
 "- Restores stock for each item in the order; useful after refunding or "
 "canceling the entire order."
 msgstr ""
+"- بازگرداندن انبار برای هر آیتم در هر سفارش؛ برای مسترد یا لغو کردن سفارش "
+"مناسب است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:357
 msgid "Email invoice"
-msgstr ""
+msgstr "ایمیل فاکتور"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:357
 msgid "- Emails the customer order details and a payment link."
-msgstr ""
+msgstr "- اطلاعات سفارش مشتری و همچنین لینک پرداخت را ایمیل می کند."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:363
 msgid "Delete Permanently"
-msgstr ""
+msgstr "حذف کامل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:365
 msgid "Move to Trash"
-msgstr ""
+msgstr "انقال به زباله دان"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:396
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:418
@@ -3951,213 +4089,213 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:950
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_order.class.php:262
 msgid "(ex. tax)"
-msgstr ""
+msgstr "(به عنوان مثال، مالیات)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:400
 msgid "Discount: "
-msgstr ""
+msgstr "تخفیف:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:405
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:439
 msgid "Choose"
-msgstr ""
+msgstr "انتخاب کردن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:429
 msgid "Total Tax:"
-msgstr ""
+msgstr "مجموع مالیات :"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/order-data.php:434
 msgid "Shipping Tax:"
-msgstr ""
+msgstr "مالیات حمل و نقل:"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data-save.php:203
 msgid "Product SKU must be unique"
-msgstr ""
+msgstr "محصول SKU باید اختصاصی باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:34
 msgid "Attach to Variation"
-msgstr ""
+msgstr "ضمیمه کردن تغییرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:37
 msgid "Attach to Product"
-msgstr ""
+msgstr "ضمیمه کردن به محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:67
 msgid "Advanced"
-msgstr ""
+msgstr "پیشرفته"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:72
 msgid "Inventory"
-msgstr ""
+msgstr "موجودی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:81
 msgid "Grouping"
-msgstr ""
+msgstr "گروه بندی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:85
 msgid "File"
-msgstr ""
+msgstr "فایل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:101
 msgid "Product Type"
-msgstr ""
+msgstr "نوع محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:103
 msgid "Simple"
-msgstr ""
+msgstr "ساده"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:104
 msgid "Downloadable"
-msgstr ""
+msgstr "قابل دانلود"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:105
 msgid "Grouped"
-msgstr ""
+msgstr "گروه بندی شده"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:106
 msgid "Virtual"
-msgstr ""
+msgstr "مجازی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:107
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:107
 msgid "Variable"
-msgstr ""
+msgstr "متنوع"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:108
 msgid "External / Affiliate"
-msgstr ""
+msgstr "خارجی / سهامداران"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:131
 msgid "Regular Price"
-msgstr ""
+msgstr "قیمت معمولی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:135
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:885
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:899
 msgid "Price Not Announced"
-msgstr ""
+msgstr "قیمت اعلام نشده است"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:142
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:572
 msgid "Sale Price"
-msgstr ""
+msgstr "قیمت فروش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:143
 msgid " or %"
-msgstr ""
+msgstr "یا %"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:145
 msgid "Schedule"
-msgstr ""
+msgstr "برنامه ریزی کردن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:146
 #, php-format
 msgid "15% or 19.99"
-msgstr ""
+msgstr "15% or 19.99"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:152
 msgid "On Sale Between"
-msgstr ""
+msgstr "On Sale Between"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:165
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:86
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/templates/checkout/review_order.php:198
 msgid "Cancel"
-msgstr ""
+msgstr "لغو کردن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:176
 msgid "Featured?"
-msgstr ""
+msgstr "مزایا؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:177
 msgid "Enable this option to feature this product"
-msgstr ""
+msgstr "برای نسبت دادن مزایایی به این محصول، این گزینه را فعال کنید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:184
 msgid "Product URL"
-msgstr ""
+msgstr "لینک محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:185
 msgid "The URL of the external product (eg. http://www.google.com)"
-msgstr ""
+msgstr "لینک خارجی محصول  (به عنوان مثال،  google.com )"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:199
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/flat_rate.php:95
 msgid "Tax Status"
-msgstr ""
+msgstr "وضعیت مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:201
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/flat_rate.php:102
 msgid "Taxable"
-msgstr ""
+msgstr "مشمول مالیات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:224
 msgid "Standard"
-msgstr ""
+msgstr "استاندارد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:240
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:642
 msgid "Check All"
-msgstr ""
+msgstr "فعال کردن همه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:241
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:643
 msgid "Uncheck All"
-msgstr ""
+msgstr "غیرفعال کردن همه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:253
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:292
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:585
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:1176
 msgid "Weight"
-msgstr ""
+msgstr "وزن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:265
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:590
 msgid "Dimensions"
-msgstr ""
+msgstr "ابعاد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:266
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:294
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:1182
 msgid "Length"
-msgstr ""
+msgstr "طول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:267
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:293
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:1184
 msgid "Width"
-msgstr ""
+msgstr "عرض"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:268
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:295
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_product.class.php:1186
 msgid "Height"
-msgstr ""
+msgstr "ارتفاع "
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:281
 msgid "Visibility"
-msgstr ""
+msgstr "قابل نمایش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:283
 msgid "Catalog & Search"
-msgstr ""
+msgstr "فهرست و جستجو"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:284
 msgid "Catalog Only"
-msgstr ""
+msgstr "فهرست تنها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:285
 msgid "Search Only"
-msgstr ""
+msgstr "جستجوی تنها"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:286
 msgid "Hidden"
-msgstr ""
+msgstr "مخفی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:299
 msgid "Can be personalized"
-msgstr ""
+msgstr "قابلیت شخصی سازی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:301
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_options.class.php:612
@@ -4209,195 +4347,198 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/free_shipping.php:71
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shipping/local_pickup.php:70
 msgid "No"
-msgstr ""
+msgstr "نه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:311
 msgid "Personalized Characters"
-msgstr ""
+msgstr "Personalized Characters"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:314
 msgid "Leave blank for unlimited"
-msgstr ""
+msgstr "اگر فیلد را خالی بگذارید، به صورت پیشفرض نامحدود خواهد بود."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:329
 msgid "Manage Stock?"
-msgstr ""
+msgstr "مدیریت انبار؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:330
 msgid "Handle stock for me"
-msgstr ""
+msgstr "Handle stock for me"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:343
 msgid "Stock Status"
-msgstr ""
+msgstr "وضعیت انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:357
 msgid "Stock Quantity"
-msgstr ""
+msgstr "موجودی انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:365
 msgid "Allow Backorders?"
-msgstr ""
+msgstr "اجازه مسترد کردن ؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:367
 msgid "Do not allow"
-msgstr ""
+msgstr "اجازه ندادن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:368
 msgid "Allow, but notify customer"
-msgstr ""
+msgstr "اجازه بده اما به مشتری اطلاع بده."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:369
 msgid "Allow"
-msgstr ""
+msgstr "اجازه دادن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:415
 msgid "Product Group"
-msgstr ""
+msgstr "گروه محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:425
 msgid "Sort Order"
-msgstr ""
+msgstr "مرتب سازی سفارش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:441
 msgid "File Path"
-msgstr ""
+msgstr "مسیر فایل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:444
 msgid "Upload a file"
-msgstr ""
+msgstr "بارگذاری فایل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:450
 msgid "Download Limit"
-msgstr ""
+msgstr "محدودیت دانلود"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:452
 msgid "Leave blank for unlimited re-downloads"
-msgstr ""
+msgstr "اگر فیلد را خالی بگذارید، برنامه به دفعات نامحدود قابل دانلود است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:472
 msgid "Add Attribute"
-msgstr ""
+msgstr "افزودن ویژگی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:474
 msgid "Custom product attribute"
-msgstr ""
+msgstr "زمینه دلخواه محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:517
 msgid "Learn how to set up Product Attributes"
-msgstr ""
+msgstr "آموزش چگونگی اضافه کردن ویژگی های محصولات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:592
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:692
 msgid "Display on product page"
-msgstr ""
+msgstr "نمایش در صفحه محصول"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:597
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:696
 msgid "Is for variations"
-msgstr ""
+msgstr "برای تغییرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:605
 msgid "Choose an option&hellip;"
-msgstr ""
+msgstr "یک گزینه انتخاب کنید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:644
 msgid "Toggle"
-msgstr ""
+msgstr "Toggle"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-data.php:645
 msgid "Show all"
-msgstr ""
+msgstr "نمایش همه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:77
 msgid "You need to add some variations first"
-msgstr ""
+msgstr "شما ابتدا باید تغییراتی ایجاد نماید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:78
 msgid "Are you sure you want to delete all variations"
-msgstr ""
+msgstr "آیا شما مطمئن هستید که می خواهید تمامی تغییرات را حذف کنید ؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:79
 msgid "Enter a regular price"
-msgstr ""
+msgstr "قیمت عادی را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:80
 msgid "Enter a sale price"
-msgstr ""
+msgstr "قیمت فروش را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:81
 msgid "Enter a stock value"
-msgstr ""
+msgstr "موجودی انبار را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:82
 msgid "Enter a weight value"
-msgstr ""
+msgstr "وزن محصول را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:83
 msgid "Enter a width value"
-msgstr ""
+msgstr "عرض محصول را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:84
 msgid "Enter a length value"
-msgstr ""
+msgstr "طول محصول را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:85
 msgid "Enter a height value"
-msgstr ""
+msgstr "ارتفاع محصول را وارد نمایید"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:91
 msgid "Are you sure you want to remove this variation?"
-msgstr ""
+msgstr "آیا مطمئن هستید که می خواهید این تغییر را حذف کنید ؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:287
 msgid "Remove All Variations"
-msgstr ""
+msgstr "حذف تمامی تغییرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:288
 msgid "Set All"
-msgstr ""
+msgstr "مرتب کردن همه"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:289
 msgid "Regular Prices"
-msgstr ""
+msgstr "قیمت عادی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:290
 msgid "Sale Prices"
-msgstr ""
+msgstr "قیمت فروش"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:309
 msgid "Learn how to make a Variation"
-msgstr ""
+msgstr "آموزش چگونگی ساختن تغییرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:442
 msgid "Any"
-msgstr ""
+msgstr "هر"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:560
 msgid "Stock Qty"
-msgstr ""
+msgstr "موجودی انبار"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:578
 msgid "Enabled"
-msgstr ""
+msgstr "فعال سازی"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:599
 msgid "File Location"
-msgstr ""
+msgstr "محل فایل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/admin/write-panels/product-types/variable.php:604
 msgid "Re-downloads Limit"
-msgstr ""
+msgstr "محدودیت در دانلود مجدد"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop.class.php:196
 msgid "Action failed. Please refresh the page and retry."
 msgstr ""
+"عملیات موفقیت آمیز نبود . لطفا صفحه را مجدد بارگذاری و سپس امتحان نمایید."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:210
 msgid ""
 "You cannot add this product to your cart because its price is not yet "
 "announced"
 msgstr ""
+"شما نمی توانید این محصول را به سبد خرید خود اضافه نمایید زیرا قیمت محصول "
+"هنوز اعلام نشده است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:218
 #, php-format
@@ -4405,12 +4546,15 @@ msgid ""
 "We are sorry.  We do not have enough \"%s\" to fill your request.  You have "
 "%d of them in your Cart and we have %d available at this time."
 msgstr ""
+"با عرض پوزش! ما به اندازه درخواست شما محصول  \"%s\" را در اختیار نداریم. شما "
+"%d در سبد خرید اضافه کرده اید و ما هم اکنون %d موجود داریم."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:218
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:220
 #, php-format
 msgid "We are sorry.  We do not have enough \"%s\" to fill your request."
 msgstr ""
+"با عرض پوزش! ما به اندازه درخواست شما محصول  \"%s\" را در اختیار نداریم. "
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:220
 #, php-format
@@ -4418,6 +4562,8 @@ msgid ""
 "We are sorry.  We do not have enough \"%s\" to fill your request. There are "
 "only %d left in stock."
 msgstr ""
+"با عرض پوزش! ما به اندازه درخواست شما محصول  \"%s\" را در اختیار نداریم. "
+"تنها %d در انبار موجود است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:379
 #, php-format
@@ -4426,6 +4572,9 @@ msgid ""
 "have %d available at this time. Please edit your cart and try again. We "
 "apologize for any inconvenience caused."
 msgstr ""
+"با عرض پوزش! ما به اندازه سفارش شما محصول  \"%s\" را در اختیار نداریم. هم "
+"اکنون %d در انبار موجود است. لطفا سبد خرید خود را ویرایش نموده و مجدد سعی "
+"نمایید. بابت مشکل به وجود آمده عذرخواهی می کنیم."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:382
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:765
@@ -4434,148 +4583,156 @@ msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order. Please "
 "edit your cart and try again. We apologize for any inconvenience caused."
 msgstr ""
+"با عرض پوزش! ما به اندازه سفارش شما محصول  \"%s\" را در اختیار نداریم. لطفا "
+"سبد خرید خود را ویرایش نموده و مجدد سعی نمایید. بابت مشکل به وجود آمده "
+"عذرخواهی می کنیم."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:813
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:956
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_order.class.php:262
 msgid "(inc. tax)"
-msgstr ""
+msgstr "(inc. tax)"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:852
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:854
 #, php-format
 msgid "estimated for %s"
-msgstr ""
+msgstr "برآورد برای %s"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:939
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_order.class.php:278
 msgid "Free!"
-msgstr ""
+msgstr "رایگان!"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:991
 msgid ""
 "There is already an 'individual use' coupon on the Cart.  No other coupons "
 "can be added until it is removed."
 msgstr ""
+"در حال حاظر یک کوپن خصوصی بر رویه سبد خرید فعال است. هیچ کوپن دیگری تا زمانی "
+"که این کوپن فعال است، افزوده نخواهد شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:999
 msgid ""
 "This is an 'individual use' coupon.  All other discount coupons have been "
 "removed."
-msgstr ""
+msgstr "کوپن فعال شده یک کوپن شخصی می باشد. تمامی تخفیف های ارائه شده حذف شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1006
 msgid "Discount coupon applied successfully."
-msgstr ""
+msgstr "کوپن تخفیف با موفقیت افزوده شد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1015
 msgid "Coupon does not exist or is no longer valid!"
-msgstr ""
+msgstr "کوپن تخفیف موجود نیست یا دیگر اعتبار ندارد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1026
 #, php-format
 msgid "The coupon '%s' is invalid with that payment method!"
-msgstr ""
+msgstr "این کوپن '%s' از طریق این روش پرداختی غیرفعال است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1039
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1044
 msgid "Your subtotal does not match this coupon's requirements."
-msgstr ""
+msgstr "هزینه مجموع سفارشات شما برای این کوپن به حد نصاب نرسیده است."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1052
 msgid "Discount code already applied!"
-msgstr ""
+msgstr "کد تخفیف در حال حاظر فعال می باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1059
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1071
 msgid "Invalid coupon!"
-msgstr ""
+msgstr "کوپن نامعتبر است!"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_cart.class.php:1065
 msgid "No products in your cart match that coupon!"
-msgstr ""
+msgstr "هیچ محصولی در سبد خرید شما با کوپن هماهنگی ندارد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:78
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:156
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:205
 msgid "Address"
-msgstr ""
+msgstr "آدرس"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:107
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:254
 msgid "you@yourdomain.com"
-msgstr ""
+msgstr "you@yourdomain.com"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:113
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:261
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:114
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/shortcodes/my_account.php:262
 msgid "Phone number"
-msgstr ""
+msgstr "شماره تماس"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:191
 msgid "Billing &amp; Shipping"
-msgstr ""
+msgstr "صورت حساب و حمل و نقل"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:210
 msgid "Create an account?"
-msgstr ""
+msgstr "ایجاد حساب کاربری؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:214
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:215
 msgid "Account password"
-msgstr ""
+msgstr "کلمه عبور اکانت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:215
 msgid "Password again"
-msgstr ""
+msgstr "تکرار کلمه عبور"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:216
 msgid "Account username"
-msgstr ""
+msgstr "نام کاربری اکانت"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:218
 msgid ""
 "Save time in the future and check the status of your order by creating an "
 "account."
 msgstr ""
+"ذخیره سازی زمان در آینده و بررسی وضعیت سفارشات شما با ایجاد یک حساب کاربری."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:240
 msgid "Ship to same address?"
-msgstr ""
+msgstr "حمل و نقل به همان آدرس؟"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:254
 msgid "Notes/Comments"
-msgstr ""
+msgstr "اطلاعیه ها/نظرات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:258
 msgid "Order Notes"
-msgstr ""
+msgstr "اطلاعیه سفارشات"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:258
 msgid "Notes about your order."
-msgstr ""
+msgstr "اطلاعیه در مورد سفارش شما"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:398
 #, php-format
 msgid ""
 "Sorry, your session has expired. <a href=\"%s\">Return to homepage &rarr;</a>"
 msgstr ""
+"با عرض پوزش، دوره زمانی شما به پایان رسید. <a href=\"%s\">بازشگت به صفحه "
+"اصلی &rarr;</a>"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:447
 msgid " (billing) is a required field."
-msgstr ""
+msgstr " در بخش صورت حساب الزامی می باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:456
 msgid " (billing) is not a valid number."
-msgstr ""
+msgstr " شماره وارد شده در بخش صورت حساب معتبر نمی باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:461
 msgid " (billing) is not a valid email address."
-msgstr ""
+msgstr " ایمیل وارد شده در بخش صورت حساب معتبر نمی باشد."
 
 #: C:\wamp\www\wordpress\wp-content\plugins\jigoshop/classes/jigoshop_checkout.class.php:466
 msgid " (billing) is not a valid postcode/ZIP."
